@@ -1,0 +1,298 @@
+div#container
+{
+    width: 970px;
+    position: relative;
+    margin: 0 auto 0 auto;
+    text-align: left;
+}
+body
+{
+    background-color: #FF0000;
+    background-image: url(/web/20181004171615im_/http://amthucbinhxuyen.com/images/video_bkgrnd.png);
+    color: #000000;
+    font-family: Arial;
+    font-weight: normal;
+    font-size: 13px;
+    line-height: 1.1875;
+    margin: 0;
+    text-align: center;
+}
+#Shape1
+{
+    border-width: 0;
+}
+#wb_CssMenu1
+{
+    border: 0px #C0C0C0 solid;
+    background-color: #2E8B57;
+}
+#wb_CssMenu1 ul
+{
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    position: relative;
+    display: inline-block;
+    width: 99px;
+}
+#wb_CssMenu1 li
+{
+    float: left;
+    margin: 0;
+    padding: 0px 0px 1px 0px;
+    width: 99px;
+}
+#wb_CssMenu1 a
+{
+    display: block;
+    color: #2E8B57;
+    border: 0px #FFFFFF none;
+    background-color: #FFFFFF;
+    background-image: none;
+    font-family: Arial;
+    font-weight: bold;
+    font-size: 12px;
+    font-style: normal;
+    text-decoration: none;
+    width: 89px;
+    height: 28px;
+    padding: 0px 5px 0px 5px;
+    vertical-align: middle;
+    line-height: 28px;
+    text-align: center;
+}
+#wb_CssMenu1 li:hover a, #wb_CssMenu1 a:hover
+{
+    color: #006400;
+    background-color: #E0FFFF;
+    background-image: none;
+    border: 0px #C0C0C0 none;
+}
+#wb_CssMenu1 .firstmain a
+{
+    margin-top: 0px;
+}
+#wb_CssMenu1 li.lastmain
+{
+    padding-bottom: 0px;
+}
+#wb_CssMenu1 li:hover, #wb_CssMenu1 li a:hover
+{
+    position: relative;
+}
+#wb_CssMenu1 a.withsubmenu
+{
+    padding: 0 5px 0 5px;
+    width: 89px;
+    background-image: none;
+}
+#wb_CssMenu1 li:hover a.withsubmenu, #wb_CssMenu1 a.withsubmenu:hover
+{
+    background-image: none;
+}
+#wb_CssMenu1 ul ul
+{
+    position: absolute;
+    left: 0;
+    top: 0;
+    visibility: hidden;
+    width: 99px;
+    height: auto;
+    border: none;
+    background-color: #2E8B57;
+}
+#wb_CssMenu1 ul :hover ul
+{
+    left: 99px;
+    top: 0px;
+    padding-top: 0px;
+    visibility: visible;
+}
+#wb_CssMenu1 .firstmain:hover ul
+{
+    top: 0px;
+    padding-top: 0px;
+}
+#wb_CssMenu1 li li
+{
+    width: 99px;
+    padding: 0 0px 1px 0px;
+    border: 0px #C0C0C0 solid;
+    border-width: 0 0px;
+}
+#wb_CssMenu1 li li.firstitem
+{
+    border-top: 0px #C0C0C0 solid;
+}
+#wb_CssMenu1 li li.lastitem
+{
+    border-bottom: 0px #C0C0C0 solid;
+}
+#wb_CssMenu1 li li.lastitem
+{
+    padding-bottom: 0px;
+}
+#wb_CssMenu1 ul ul a, #wb_CssMenu1 ul :hover ul a
+{
+    float: none;
+    margin: 0;
+    width: 89px;
+    height: auto;
+    white-space: normal;
+    padding: 8px 5px 8px 5px;
+    background-color: #F5FFFA;
+    background-image: none;
+    border: 0px #FFFFFF solid;
+    color: #2E8B57;
+    font-family: Arial;
+    font-weight: bold;
+    font-size: 12px;
+    font-style: normal;
+    line-height: 12px;
+    text-align: center;
+    text-decoration: none;
+}
+#wb_CssMenu1 ul :hover ul .firstitem a
+{
+    margin-top: 0px;
+}
+#wb_CssMenu1 ul ul :hover a, #wb_CssMenu1 ul ul a:hover, #wb_CssMenu1 ul ul :hover ul :hover a, #wb_CssMenu1 ul ul :hover ul a:hover
+{
+    background-color: #E0FFFF;
+    background-image: none;
+    border: 0px #C0C0C0 solid;
+    color: #006400;
+}
+#wb_CssMenu1 br
+{
+    clear: both;
+    font-size: 1px;
+    height: 0;
+    line-height: 0;
+}
+#Image1
+{
+    border: 0px #000000 solid;
+    padding: 0px 0px 0px 0px;
+    left: 0;
+    top: 0;
+    width: 100%;
+    height: 100%;
+}
+#Shape2
+{
+    border-width: 0;
+}
+#DOWN
+{
+    border-width: 0;
+}
+#BG_UP
+{
+    border-width: 0;
+}
+#UP
+{
+    border-width: 0;
+}
+#360
+{
+    border-width: 0;
+    left: 0;
+    top: 0;
+    width: 100%;
+    height: 100%;
+}
+#YouTube1
+{
+    border-width: 0;
+    left: 0;
+    top: 0;
+    width: 100%;
+    height: 100%;
+}
+#YouTube2
+{
+    border-width: 0;
+    left: 0;
+    top: 0;
+    width: 100%;
+    height: 100%;
+}
+#YouTube3
+{
+    border-width: 0;
+    left: 0;
+    top: 0;
+    width: 100%;
+    height: 100%;
+}
+#YouTube4
+{
+    border-width: 0;
+    left: 0;
+    top: 0;
+    width: 100%;
+    height: 100%;
+}
+#YouTube5
+{
+    border-width: 0;
+    left: 0;
+    top: 0;
+    width: 100%;
+    height: 100%;
+}
+#YouTube6
+{
+    border-width: 0;
+    left: 0;
+    top: 0;
+    width: 100%;
+    height: 100%;
+}
+#YouTube7
+{
+    border-width: 0;
+    left: 0;
+    top: 0;
+    width: 100%;
+    height: 100%;
+}
+#YouTube8
+{
+    border-width: 0;
+    left: 0;
+    top: 0;
+    width: 100%;
+    height: 100%;
+}
+#Line1
+{
+    color: #A0A0A0;
+    background-color: #A0A0A0;
+    border-width: 0;
+    margin: 0;
+    padding: 0;
+}
+
+/*
+     FILE ARCHIVED ON 17:16:15 Oct 04, 2018 AND RETRIEVED FROM THE
+     INTERNET ARCHIVE ON 04:35:09 Apr 24, 2024.
+     JAVASCRIPT APPENDED BY WAYBACK MACHINE, COPYRIGHT INTERNET ARCHIVE.
+
+     ALL OTHER CONTENT MAY ALSO BE PROTECTED BY COPYRIGHT (17 U.S.C.
+     SECTION 108(a)(3)).
+*/
+/*
+playback timings (ms):
+  captures_list: 0.835
+  exclusion.robots: 0.139
+  exclusion.robots.policy: 0.13
+  cdx.remote: 0.101
+  esindex: 0.009
+  LoadShardBlock: 130.155 (3)
+  PetaboxLoader3.datanode: 86.741 (4)
+  PetaboxLoader3.resolve: 286.925 (2)
+  load_resource: 268.158
+*/

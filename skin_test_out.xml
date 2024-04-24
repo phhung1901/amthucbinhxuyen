@@ -1,0 +1,1355 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<tour start="node5">
+  <panorama id="node5">
+    <input prev3url="images/003_D_o_preview_3.jpg" tile5url="images/003_D_o_5.jpg" tile3url="images/003_D_o_3.jpg" prev5url="images/003_D_o_preview_5.jpg" tile2url="images/003_D_o_2.jpg" prev1url="images/003_D_o_preview_1.jpg" tile4url="images/003_D_o_4.jpg" tile0url="images/003_D_o_0.jpg" prev0url="images/003_D_o_preview_0.jpg" prev4url="images/003_D_o_preview_4.jpg" tilescale="1.006845" tile1url="images/003_D_o_1.jpg" tilesize="1461" prev2url="images/003_D_o_preview_2.jpg">
+      <preview color="0x808080"/>
+    </input>
+    <view fovmode="0" pannorth="0">
+      <start pan="358.5" fov="70" tilt="16.5"/>
+      <min pan="0" fov="5" tilt="-90"/>
+      <max pan="360" fov="120" tilt="90"/>
+    </view>
+    <userdata author="" source="" info="" tags="" latitude="" description="" datetime="2016:01:08 15:10:10" copyright="" comment="" title="Cổng chính Bình Xuyên" longitude=""/>
+    <hotspots height="20" wordwrap="1" width="180">
+      <label height="20" borderalpha="1" wordwrap="1" enabled="1" backgroundalpha="1" textalpha="1" borderradius="1" width="180" textcolor="0x000000" backgroundcolor="0xffffff" background="1" bordercolor="0x000000" border="1"/>
+      <polystyle borderalpha="1" handcursor="1" backgroundalpha="0.2509803921568627" mode="0" backgroundcolor="0x0000ff" bordercolor="0x0000ff"/>
+      <hotspot id="Point01" pan="-85.5453" target="181/-0.5/70" description="" title="Khu vực đậu xe hơi" tilt="-0.916915" url="{node8}" skinid="ht_node"/>
+      <hotspot id="Point02" pan="87.054" target="1.5/9/70" description="" title="Đường chính" tilt="3.94173" url="{node6}" skinid="ht_node"/>
+    </hotspots>
+    <media/>
+    <transition zoomfov="20" enabled="0" softedge="0" zoomoutpause="1" zoomspeed="2" zoomin="0" zoomout="0" blendcolor="0x000000" type="crossdissolve" blendtime="1"/>
+    <control invertwheel="0" lockedmouse="0" contextfullscreen="0" simulatemass="1" speedwheel="1" dblclickfullscreen="0" lockedkeyboardzoom="0" sensitivity="8" invertcontrol="1" lockedkeyboard="0" lockedwheel="0" hideabout="0"/>
+  </panorama>
+  <panorama id="node6">
+    <input prev3url="images/004_D_o_preview_3.jpg" tile5url="images/004_D_o_5.jpg" tile3url="images/004_D_o_3.jpg" prev5url="images/004_D_o_preview_5.jpg" tile2url="images/004_D_o_2.jpg" prev1url="images/004_D_o_preview_1.jpg" tile4url="images/004_D_o_4.jpg" tile0url="images/004_D_o_0.jpg" prev0url="images/004_D_o_preview_0.jpg" prev4url="images/004_D_o_preview_4.jpg" tilescale="1.006845" tile1url="images/004_D_o_1.jpg" tilesize="1461" prev2url="images/004_D_o_preview_2.jpg">
+      <preview color="0x808080"/>
+    </input>
+    <view fovmode="0" pannorth="0">
+      <start pan="0" fov="70" tilt="0"/>
+      <min pan="0" fov="5" tilt="-90"/>
+      <max pan="360" fov="120" tilt="90"/>
+    </view>
+    <userdata author="" source="" info="" tags="" latitude="" description="" datetime="2016:01:08 15:22:25" copyright="" comment="" title="Đường chính" longitude=""/>
+    <hotspots height="20" wordwrap="1" width="180">
+      <label height="20" borderalpha="1" wordwrap="1" enabled="1" backgroundalpha="1" textalpha="1" borderradius="1" width="180" textcolor="0x000000" backgroundcolor="0xffffff" background="1" bordercolor="0x000000" border="1"/>
+      <polystyle borderalpha="1" handcursor="1" backgroundalpha="0.2509803921568627" mode="0" backgroundcolor="0x0000ff" bordercolor="0x0000ff"/>
+      <hotspot id="Point01" pan="0.223748" target="0/7.5/70" description="" title="Đường chính" tilt="4.92577" url="{node7}" skinid="ht_node"/>
+      <hotspot id="Point02" pan="-178.031" target="270.5/11.5/70" description="" title="Cổng chính Bình Xuyên" tilt="4.12689" url="{node5}" skinid="ht_node"/>
+      <hotspot id="Point03" pan="-38.7494" target="351/1/70" description="" title="Khu vực đậu xe máy" tilt="1.0605" url="{node10}" skinid="ht_node"/>
+    </hotspots>
+    <media/>
+    <transition zoomfov="20" enabled="0" softedge="0" zoomoutpause="1" zoomspeed="2" zoomin="0" zoomout="0" blendcolor="0x000000" type="crossdissolve" blendtime="1"/>
+    <control invertwheel="0" lockedmouse="0" contextfullscreen="0" simulatemass="1" speedwheel="1" dblclickfullscreen="0" lockedkeyboardzoom="0" sensitivity="8" invertcontrol="1" lockedkeyboard="0" lockedwheel="0" hideabout="0"/>
+  </panorama>
+  <panorama id="node7">
+    <input prev3url="images/005_D_o_preview_3.jpg" tile5url="images/005_D_o_5.jpg" tile3url="images/005_D_o_3.jpg" prev5url="images/005_D_o_preview_5.jpg" tile2url="images/005_D_o_2.jpg" prev1url="images/005_D_o_preview_1.jpg" tile4url="images/005_D_o_4.jpg" tile0url="images/005_D_o_0.jpg" prev0url="images/005_D_o_preview_0.jpg" prev4url="images/005_D_o_preview_4.jpg" tilescale="1.006845" tile1url="images/005_D_o_1.jpg" tilesize="1461" prev2url="images/005_D_o_preview_2.jpg">
+      <preview color="0x808080"/>
+    </input>
+    <view fovmode="0" pannorth="0">
+      <start pan="0" fov="70" tilt="0"/>
+      <min pan="0" fov="5" tilt="-90"/>
+      <max pan="360" fov="120" tilt="90"/>
+    </view>
+    <userdata author="" source="" info="" tags="" latitude="" description="" datetime="2015:12:31 12:03:06" copyright="" comment="" title="Đường chính" longitude=""/>
+    <hotspots height="20" wordwrap="1" width="180">
+      <label height="20" borderalpha="1" wordwrap="1" enabled="1" backgroundalpha="1" textalpha="1" borderradius="1" width="180" textcolor="0x000000" backgroundcolor="0xffffff" background="1" bordercolor="0x000000" border="1"/>
+      <polystyle borderalpha="1" handcursor="1" backgroundalpha="0.2509803921568627" mode="0" backgroundcolor="0x0000ff" bordercolor="0x0000ff"/>
+      <hotspot id="Point01" pan="-3.31262" target="88/5.5/70" description="" title="Đường chính" tilt="3.92815" url="{node9}" skinid="ht_node"/>
+      <hotspot id="Point02" pan="-178.522" target="179.5/6/70" description="" title="Đường chính" tilt="4.44576" url="{node6}" skinid="ht_node"/>
+      <hotspot id="Point03" pan="-146.084" target="234/-5/70" description="" title="Khu vực đậu xe máy" tilt="4.43357" url="{node10}" skinid="ht_node"/>
+      <hotspot id="Point04" pan="91.6014" target="34.5/3/70" description="" title="Khu Gia Đình" tilt="3.67076" url="{node53}" skinid="ht_node"/>
+    </hotspots>
+    <media/>
+    <transition zoomfov="20" enabled="0" softedge="0" zoomoutpause="1" zoomspeed="2" zoomin="0" zoomout="0" blendcolor="0x000000" type="crossdissolve" blendtime="1"/>
+    <control invertwheel="0" lockedmouse="0" contextfullscreen="0" simulatemass="1" speedwheel="1" dblclickfullscreen="0" lockedkeyboardzoom="0" sensitivity="8" invertcontrol="1" lockedkeyboard="0" lockedwheel="0" hideabout="0"/>
+  </panorama>
+  <panorama id="node8">
+    <input prev3url="images/005_nha xe hoi_o_preview_3.jpg" tile5url="images/005_nha xe hoi_o_5.jpg" tile3url="images/005_nha xe hoi_o_3.jpg" prev5url="images/005_nha xe hoi_o_preview_5.jpg" tile2url="images/005_nha xe hoi_o_2.jpg" prev1url="images/005_nha xe hoi_o_preview_1.jpg" tile4url="images/005_nha xe hoi_o_4.jpg" tile0url="images/005_nha xe hoi_o_0.jpg" prev0url="images/005_nha xe hoi_o_preview_0.jpg" prev4url="images/005_nha xe hoi_o_preview_4.jpg" tilescale="1.006845" tile1url="images/005_nha xe hoi_o_1.jpg" tilesize="1461" prev2url="images/005_nha xe hoi_o_preview_2.jpg">
+      <preview color="0x808080"/>
+    </input>
+    <view fovmode="0" pannorth="0">
+      <start pan="0" fov="70" tilt="0"/>
+      <min pan="0" fov="5" tilt="-90"/>
+      <max pan="360" fov="120" tilt="90"/>
+    </view>
+    <userdata author="" source="" info="" tags="" latitude="" description="" datetime="2015:12:01 12:41:45" copyright="" comment="" title="Khu vực đậu xe hơi" longitude=""/>
+    <hotspots height="20" wordwrap="1" width="180">
+      <label height="20" borderalpha="1" wordwrap="1" enabled="1" backgroundalpha="1" textalpha="1" borderradius="1" width="180" textcolor="0x000000" backgroundcolor="0xffffff" background="1" bordercolor="0x000000" border="1"/>
+      <polystyle borderalpha="1" handcursor="1" backgroundalpha="0.2509803921568627" mode="0" backgroundcolor="0x0000ff" bordercolor="0x0000ff"/>
+      <hotspot id="Point01" pan="-0.292377" target="88.5/7/70" description="" title="Cổng chính Bình Xuyên" tilt="3.57016" url="{node5}" skinid="ht_node"/>
+    </hotspots>
+    <media/>
+    <transition zoomfov="20" enabled="0" softedge="0" zoomoutpause="1" zoomspeed="2" zoomin="0" zoomout="0" blendcolor="0x000000" type="crossdissolve" blendtime="1"/>
+    <control invertwheel="0" lockedmouse="0" contextfullscreen="0" simulatemass="1" speedwheel="1" dblclickfullscreen="0" lockedkeyboardzoom="0" sensitivity="8" invertcontrol="1" lockedkeyboard="0" lockedwheel="0" hideabout="0"/>
+  </panorama>
+  <panorama id="node9">
+    <input prev3url="images/006_D_o_preview_3.jpg" tile5url="images/006_D_o_5.jpg" tile3url="images/006_D_o_3.jpg" prev5url="images/006_D_o_preview_5.jpg" tile2url="images/006_D_o_2.jpg" prev1url="images/006_D_o_preview_1.jpg" tile4url="images/006_D_o_4.jpg" tile0url="images/006_D_o_0.jpg" prev0url="images/006_D_o_preview_0.jpg" prev4url="images/006_D_o_preview_4.jpg" tilescale="1.006845" tile1url="images/006_D_o_1.jpg" tilesize="1461" prev2url="images/006_D_o_preview_2.jpg">
+      <preview color="0x808080"/>
+    </input>
+    <view fovmode="0" pannorth="0">
+      <start pan="0" fov="70" tilt="0"/>
+      <min pan="0" fov="5" tilt="-90"/>
+      <max pan="360" fov="120" tilt="90"/>
+    </view>
+    <userdata author="" source="" info="" tags="" latitude="" description="" datetime="2015:12:31 23:21:44" copyright="" comment="" title="Đường chính" longitude=""/>
+    <hotspots height="20" wordwrap="1" width="180">
+      <label height="20" borderalpha="1" wordwrap="1" enabled="1" backgroundalpha="1" textalpha="1" borderradius="1" width="180" textcolor="0x000000" backgroundcolor="0xffffff" background="1" bordercolor="0x000000" border="1"/>
+      <polystyle borderalpha="1" handcursor="1" backgroundalpha="0.2509803921568627" mode="0" backgroundcolor="0x0000ff" bordercolor="0x0000ff"/>
+      <hotspot id="Point01" pan="86.5491" target="83.5/5.5/70" description="" title="Đường chính" tilt="5.32831" url="{node4}" skinid="ht_node"/>
+      <hotspot id="Point02" pan="-90.2025" target="178.5/7/70" description="" title="Đường chính" tilt="5.91303" url="{node7}" skinid="ht_node"/>
+      <hotspot id="Point03" pan="-2.40929" target="357/0/70" description="" title="Đường chính" tilt="-1.06421" url="{node2}" skinid="ht_node"/>
+      <hotspot id="Point04" pan="158.384" target="341.5/0/70" description="" title="Khu VIP" tilt="4.41597" url="{node64}" skinid="ht_node"/>
+      <hotspot id="Point05" pan="-130.679" target="97/-2.5/70" description="" title="Khu Gia Đình" tilt="5.69399" url="{node53}" skinid="ht_node"/>
+    </hotspots>
+    <media/>
+    <transition zoomfov="20" enabled="0" softedge="0" zoomoutpause="1" zoomspeed="2" zoomin="0" zoomout="0" blendcolor="0x000000" type="crossdissolve" blendtime="1"/>
+    <control invertwheel="0" lockedmouse="0" contextfullscreen="0" simulatemass="1" speedwheel="1" dblclickfullscreen="0" lockedkeyboardzoom="0" sensitivity="8" invertcontrol="1" lockedkeyboard="0" lockedwheel="0" hideabout="0"/>
+  </panorama>
+  <panorama id="node10">
+    <input prev3url="images/007_nha xe may_o_preview_3.jpg" tile5url="images/007_nha xe may_o_5.jpg" tile3url="images/007_nha xe may_o_3.jpg" prev5url="images/007_nha xe may_o_preview_5.jpg" tile2url="images/007_nha xe may_o_2.jpg" prev1url="images/007_nha xe may_o_preview_1.jpg" tile4url="images/007_nha xe may_o_4.jpg" tile0url="images/007_nha xe may_o_0.jpg" prev0url="images/007_nha xe may_o_preview_0.jpg" prev4url="images/007_nha xe may_o_preview_4.jpg" tilescale="1.006845" tile1url="images/007_nha xe may_o_1.jpg" tilesize="1461" prev2url="images/007_nha xe may_o_preview_2.jpg">
+      <preview color="0x808080"/>
+    </input>
+    <view fovmode="0" pannorth="0">
+      <start pan="0" fov="70" tilt="0"/>
+      <min pan="0" fov="5" tilt="-90"/>
+      <max pan="360" fov="120" tilt="90"/>
+    </view>
+    <userdata author="" source="" info="" tags="" latitude="" description="" datetime="2015:11:02 11:51:12" copyright="" comment="" title="Khu vực đậu xe máy" longitude=""/>
+    <hotspots height="20" wordwrap="1" width="180">
+      <label height="20" borderalpha="1" wordwrap="1" enabled="1" backgroundalpha="1" textalpha="1" borderradius="1" width="180" textcolor="0x000000" backgroundcolor="0xffffff" background="1" bordercolor="0x000000" border="1"/>
+      <polystyle borderalpha="1" handcursor="1" backgroundalpha="0.2509803921568627" mode="0" backgroundcolor="0x0000ff" bordercolor="0x0000ff"/>
+      <hotspot id="Point01" pan="42.7222" target="53.5/-0.5/70" description="" title="Đường chính" tilt="-0.231655" url="{node7}" skinid="ht_node"/>
+    </hotspots>
+    <media/>
+    <transition zoomfov="20" enabled="0" softedge="0" zoomoutpause="1" zoomspeed="2" zoomin="0" zoomout="0" blendcolor="0x000000" type="crossdissolve" blendtime="1"/>
+    <control invertwheel="0" lockedmouse="0" contextfullscreen="0" simulatemass="1" speedwheel="1" dblclickfullscreen="0" lockedkeyboardzoom="0" sensitivity="8" invertcontrol="1" lockedkeyboard="0" lockedwheel="0" hideabout="0"/>
+  </panorama>
+  <panorama id="node4">
+    <input prev3url="images/100_D_o_preview_3.jpg" tile5url="images/100_D_o_5.jpg" tile3url="images/100_D_o_3.jpg" prev5url="images/100_D_o_preview_5.jpg" tile2url="images/100_D_o_2.jpg" prev1url="images/100_D_o_preview_1.jpg" tile4url="images/100_D_o_4.jpg" tile0url="images/100_D_o_0.jpg" prev0url="images/100_D_o_preview_0.jpg" prev4url="images/100_D_o_preview_4.jpg" tilescale="1.006845" tile1url="images/100_D_o_1.jpg" tilesize="1461" prev2url="images/100_D_o_preview_2.jpg">
+      <preview color="0x808080"/>
+    </input>
+    <view fovmode="0" pannorth="0">
+      <start pan="266" fov="70" tilt="0.5"/>
+      <min pan="0" fov="5" tilt="-90"/>
+      <max pan="360" fov="120" tilt="90"/>
+    </view>
+    <userdata author="" source="" info="" tags="" latitude="" description="" datetime="2016:01:03 10:00:21" copyright="" comment="" title="Đường chính" longitude=""/>
+    <hotspots height="20" wordwrap="1" width="180">
+      <label height="20" borderalpha="1" wordwrap="1" enabled="1" backgroundalpha="1" textalpha="1" borderradius="1" width="180" textcolor="0x000000" backgroundcolor="0xffffff" background="1" bordercolor="0x000000" border="1"/>
+      <polystyle borderalpha="1" handcursor="1" backgroundalpha="0.2509803921568627" mode="0" backgroundcolor="0x0000ff" bordercolor="0x0000ff"/>
+      <hotspot id="Point01" pan="-94.2329" target="267.5/1/70" description="" title="Đường chính" tilt="6.6008" url="{node9}" skinid="ht_node"/>
+      <hotspot id="Point02" pan="-169.281" target="33/2.5/70" description="" title="Khu VIP" tilt="5.93356" url="{node64}" skinid="ht_node"/>
+      <hotspot id="Point03" pan="-7.64122" target="234.5/0.5/70" description="" title="Khu Đường Xanh" tilt="6.06661" url="{node51}" skinid="ht_node"/>
+    </hotspots>
+    <media/>
+    <transition zoomfov="20" enabled="0" softedge="0" zoomoutpause="1" zoomspeed="2" zoomin="0" zoomout="0" blendcolor="0x000000" type="crossdissolve" blendtime="1"/>
+    <control invertwheel="0" lockedmouse="0" contextfullscreen="0" simulatemass="1" speedwheel="1" dblclickfullscreen="0" lockedkeyboardzoom="0" sensitivity="8" invertcontrol="1" lockedkeyboard="0" lockedwheel="0" hideabout="0"/>
+  </panorama>
+  <panorama id="node2">
+    <input prev3url="images/D_002_o_preview_3.jpg" tile5url="images/D_002_o_5.jpg" tile3url="images/D_002_o_3.jpg" prev5url="images/D_002_o_preview_5.jpg" tile2url="images/D_002_o_2.jpg" prev1url="images/D_002_o_preview_1.jpg" tile4url="images/D_002_o_4.jpg" tile0url="images/D_002_o_0.jpg" prev0url="images/D_002_o_preview_0.jpg" prev4url="images/D_002_o_preview_4.jpg" tilescale="1.006845" tile1url="images/D_002_o_1.jpg" tilesize="1461" prev2url="images/D_002_o_preview_2.jpg">
+      <preview color="0x808080"/>
+    </input>
+    <view fovmode="0" pannorth="0">
+      <start pan="0" fov="70" tilt="0"/>
+      <min pan="0" fov="5" tilt="-90"/>
+      <max pan="360" fov="120" tilt="90"/>
+    </view>
+    <userdata author="" source="" info="" tags="" latitude="" description="" datetime="2016:01:17 15:21:51" copyright="" comment="" title="Đường chính" longitude=""/>
+    <hotspots height="20" wordwrap="1" width="180">
+      <label height="20" borderalpha="1" wordwrap="1" enabled="1" backgroundalpha="1" textalpha="1" borderradius="1" width="180" textcolor="0x000000" backgroundcolor="0xffffff" background="1" bordercolor="0x000000" border="1"/>
+      <polystyle borderalpha="1" handcursor="1" backgroundalpha="0.2509803921568627" mode="0" backgroundcolor="0x0000ff" bordercolor="0x0000ff"/>
+      <hotspot id="Point01" pan="0.644707" target="3/-6/70" description="" title="Đường chính" tilt="1.81392" url="{node3}" skinid="ht_node"/>
+      <hotspot id="Point02" pan="-78.6674" target="5.5/8.5/70" description="" title="Phòng đặt tiệc" tilt="1.73467" url="{node11}" skinid="ht_node"/>
+      <hotspot id="Point03" pan="-179.215" target="182.5/-0.5/70" description="" title="Đường chính" tilt="2.84484" url="{node9}" skinid="ht_node"/>
+      <hotspot id="Point04" pan="77.3348" target="321.5/2/70" description="" title="Khu Đường Xanh" tilt="6.01728" url="{node51}" skinid="ht_node"/>
+    </hotspots>
+    <media/>
+    <transition zoomfov="20" enabled="0" softedge="0" zoomoutpause="1" zoomspeed="2" zoomin="0" zoomout="0" blendcolor="0x000000" type="crossdissolve" blendtime="1"/>
+    <control invertwheel="0" lockedmouse="0" contextfullscreen="0" simulatemass="1" speedwheel="1" dblclickfullscreen="0" lockedkeyboardzoom="0" sensitivity="8" invertcontrol="1" lockedkeyboard="0" lockedwheel="0" hideabout="0"/>
+  </panorama>
+  <panorama id="node11">
+    <input prev3url="images/PGD_o_preview_3.jpg" tile5url="images/PGD_o_5.jpg" tile3url="images/PGD_o_3.jpg" prev5url="images/PGD_o_preview_5.jpg" tile2url="images/PGD_o_2.jpg" prev1url="images/PGD_o_preview_1.jpg" tile4url="images/PGD_o_4.jpg" tile0url="images/PGD_o_0.jpg" prev0url="images/PGD_o_preview_0.jpg" prev4url="images/PGD_o_preview_4.jpg" tilescale="1.006845" tile1url="images/PGD_o_1.jpg" tilesize="1461" prev2url="images/PGD_o_preview_2.jpg">
+      <preview color="0x808080"/>
+    </input>
+    <view fovmode="0" pannorth="0">
+      <start pan="6" fov="70" tilt="1"/>
+      <min pan="0" fov="5" tilt="-90"/>
+      <max pan="360" fov="120" tilt="90"/>
+    </view>
+    <userdata author="" source="" info="" tags="" latitude="" description="" datetime="2015:12:24 10:27:52" copyright="" comment="" title="Phòng đặt tiệc" longitude=""/>
+    <hotspots height="20" wordwrap="1" width="180">
+      <label height="20" borderalpha="1" wordwrap="1" enabled="1" backgroundalpha="1" textalpha="1" borderradius="1" width="180" textcolor="0x000000" backgroundcolor="0xffffff" background="1" bordercolor="0x000000" border="1"/>
+      <polystyle borderalpha="1" handcursor="1" backgroundalpha="0.2509803921568627" mode="0" backgroundcolor="0x0000ff" bordercolor="0x0000ff"/>
+      <hotspot id="Point01" pan="-146.618" target="101/0.5/70" description="" title="Đường chính" tilt="-2.03689" url="{node2}" skinid="ht_node"/>
+      <hotspot id="Point02" pan="-177.182" target="324/1.5/70" description="" title="Khu Đường Xanh" tilt="-0.808372" url="{node51}" skinid="ht_node"/>
+    </hotspots>
+    <media/>
+    <transition zoomfov="20" enabled="0" softedge="0" zoomoutpause="1" zoomspeed="2" zoomin="0" zoomout="0" blendcolor="0x000000" type="crossdissolve" blendtime="1"/>
+    <control invertwheel="0" lockedmouse="0" contextfullscreen="0" simulatemass="1" speedwheel="1" dblclickfullscreen="0" lockedkeyboardzoom="0" sensitivity="8" invertcontrol="1" lockedkeyboard="0" lockedwheel="0" hideabout="0"/>
+  </panorama>
+  <panorama id="node3">
+    <input prev3url="images/D_003_o_preview_3.jpg" tile5url="images/D_003_o_5.jpg" tile3url="images/D_003_o_3.jpg" prev5url="images/D_003_o_preview_5.jpg" tile2url="images/D_003_o_2.jpg" prev1url="images/D_003_o_preview_1.jpg" tile4url="images/D_003_o_4.jpg" tile0url="images/D_003_o_0.jpg" prev0url="images/D_003_o_preview_0.jpg" prev4url="images/D_003_o_preview_4.jpg" tilescale="1.006845" tile1url="images/D_003_o_1.jpg" tilesize="1461" prev2url="images/D_003_o_preview_2.jpg">
+      <preview color="0x808080"/>
+    </input>
+    <view fovmode="0" pannorth="0">
+      <start pan="0" fov="70" tilt="0"/>
+      <min pan="0" fov="5" tilt="-90"/>
+      <max pan="360" fov="120" tilt="90"/>
+    </view>
+    <userdata author="" source="" info="" tags="" latitude="" description="" datetime="2016:01:17 15:13:28" copyright="" comment="" title="Đường chính" longitude=""/>
+    <hotspots height="20" wordwrap="1" width="180">
+      <label height="20" borderalpha="1" wordwrap="1" enabled="1" backgroundalpha="1" textalpha="1" borderradius="1" width="180" textcolor="0x000000" backgroundcolor="0xffffff" background="1" bordercolor="0x000000" border="1"/>
+      <polystyle borderalpha="1" handcursor="1" backgroundalpha="0.2509803921568627" mode="0" backgroundcolor="0x0000ff" bordercolor="0x0000ff"/>
+      <hotspot id="Point01" pan="3.86592" target="353.5/1.5/70" description="" title="Đường chính" tilt="2.55915" url="{node1}" skinid="ht_node"/>
+      <hotspot id="Point02" pan="-175.172" target="180/-2.5/70" description="" title="Đường chính" tilt="2.25951" url="{node2}" skinid="ht_node"/>
+      <hotspot id="Point03" pan="-43.727" target="307.5/-11/70" description="" title="Khu Đồng trâu" tilt="-0.0632834" url="{node14}" skinid="ht_node"/>
+    </hotspots>
+    <media/>
+    <transition zoomfov="20" enabled="0" softedge="0" zoomoutpause="1" zoomspeed="2" zoomin="0" zoomout="0" blendcolor="0x000000" type="crossdissolve" blendtime="1"/>
+    <control invertwheel="0" lockedmouse="0" contextfullscreen="0" simulatemass="1" speedwheel="1" dblclickfullscreen="0" lockedkeyboardzoom="0" sensitivity="8" invertcontrol="1" lockedkeyboard="0" lockedwheel="0" hideabout="0"/>
+  </panorama>
+  <panorama id="node1">
+    <input prev3url="images/D_004_o_preview_3.jpg" tile5url="images/D_004_o_5.jpg" tile3url="images/D_004_o_3.jpg" prev5url="images/D_004_o_preview_5.jpg" tile2url="images/D_004_o_2.jpg" prev1url="images/D_004_o_preview_1.jpg" tile4url="images/D_004_o_4.jpg" tile0url="images/D_004_o_0.jpg" prev0url="images/D_004_o_preview_0.jpg" prev4url="images/D_004_o_preview_4.jpg" tilescale="1.006845" tile1url="images/D_004_o_1.jpg" tilesize="1461" prev2url="images/D_004_o_preview_2.jpg">
+      <preview color="0x808080"/>
+    </input>
+    <view fovmode="0" pannorth="0">
+      <start pan="0" fov="70" tilt="0"/>
+      <min pan="0" fov="5" tilt="-90"/>
+      <max pan="360" fov="120" tilt="90"/>
+    </view>
+    <userdata author="" source="" info="" tags="" latitude="" description="" datetime="2016:01:17 14:44:56" copyright="" comment="" title="Đường chính" longitude=""/>
+    <hotspots height="20" wordwrap="1" width="180">
+      <label height="20" borderalpha="1" wordwrap="1" enabled="1" backgroundalpha="1" textalpha="1" borderradius="1" width="180" textcolor="0x000000" backgroundcolor="0xffffff" background="1" bordercolor="0x000000" border="1"/>
+      <polystyle borderalpha="1" handcursor="1" backgroundalpha="0.2509803921568627" mode="0" backgroundcolor="0x0000ff" bordercolor="0x0000ff"/>
+      <hotspot id="Point01" pan="172.782" target="182/-8/70" description="" title="Đường chính" tilt="1.2004" url="{node3}" skinid="ht_node"/>
+      <hotspot id="Point02" pan="-7.24567" target="272.5/4/70" description="" title="Đường chính" tilt="3.25504" url="{node12}" skinid="ht_node"/>
+      <hotspot id="Point03" pan="-132.278" target="253.5/-0.5/70" description="" title="Khu Đồng trâu" tilt="-0.393133" url="{node14}" skinid="ht_node"/>
+      <hotspot id="Point04" pan="53.8624" target="167.5/4.5/70" description="" title="Khu Kim Quy" tilt="6.26209" url="{node19}" skinid="ht_node"/>
+    </hotspots>
+    <media/>
+    <transition zoomfov="20" enabled="0" softedge="0" zoomoutpause="1" zoomspeed="2" zoomin="0" zoomout="0" blendcolor="0x000000" type="crossdissolve" blendtime="1"/>
+    <control invertwheel="0" lockedmouse="0" contextfullscreen="0" simulatemass="1" speedwheel="1" dblclickfullscreen="0" lockedkeyboardzoom="0" sensitivity="8" invertcontrol="1" lockedkeyboard="0" lockedwheel="0" hideabout="0"/>
+  </panorama>
+  <panorama id="node12">
+    <input prev3url="images/D_005_o_preview_3.jpg" tile5url="images/D_005_o_5.jpg" tile3url="images/D_005_o_3.jpg" prev5url="images/D_005_o_preview_5.jpg" tile2url="images/D_005_o_2.jpg" prev1url="images/D_005_o_preview_1.jpg" tile4url="images/D_005_o_4.jpg" tile0url="images/D_005_o_0.jpg" prev0url="images/D_005_o_preview_0.jpg" prev4url="images/D_005_o_preview_4.jpg" tilescale="1.006845" tile1url="images/D_005_o_1.jpg" tilesize="1461" prev2url="images/D_005_o_preview_2.jpg">
+      <preview color="0x808080"/>
+    </input>
+    <view fovmode="0" pannorth="0">
+      <start pan="90.5" fov="70" tilt="1"/>
+      <min pan="0" fov="5" tilt="-90"/>
+      <max pan="360" fov="120" tilt="90"/>
+    </view>
+    <userdata author="" source="" info="" tags="" latitude="" description="" datetime="2016:01:14 08:34:16" copyright="" comment="" title="Đường chính" longitude=""/>
+    <hotspots height="20" wordwrap="1" width="180">
+      <label height="20" borderalpha="1" wordwrap="1" enabled="1" backgroundalpha="1" textalpha="1" borderradius="1" width="180" textcolor="0x000000" backgroundcolor="0xffffff" background="1" bordercolor="0x000000" border="1"/>
+      <polystyle borderalpha="1" handcursor="1" backgroundalpha="0.2509803921568627" mode="0" backgroundcolor="0x0000ff" bordercolor="0x0000ff"/>
+      <hotspot id="Point01" pan="-87.4147" target="1/7/70" description="" title="Đường chính" tilt="4.67994" url="{node13}" skinid="ht_node"/>
+      <hotspot id="Point02" pan="93.2909" target="174.5/1.5/70" description="" title="Đường chính" tilt="1.89441" url="{node1}" skinid="ht_node"/>
+      <hotspot id="Point03" pan="-176.391" target="181/-0.5/70" description="" title="Khu Đồng trâu" tilt="-0.116474" url="{node15}" skinid="ht_node"/>
+      <hotspot id="Point04" pan="1.40635" target="176/3/70" description="" title="Khu Kim Quy" tilt="4.09181" url="{node20}" skinid="ht_node"/>
+    </hotspots>
+    <media/>
+    <transition zoomfov="20" enabled="0" softedge="0" zoomoutpause="1" zoomspeed="2" zoomin="0" zoomout="0" blendcolor="0x000000" type="crossdissolve" blendtime="1"/>
+    <control invertwheel="0" lockedmouse="0" contextfullscreen="0" simulatemass="1" speedwheel="1" dblclickfullscreen="0" lockedkeyboardzoom="0" sensitivity="8" invertcontrol="1" lockedkeyboard="0" lockedwheel="0" hideabout="0"/>
+  </panorama>
+  <panorama id="node13">
+    <input prev3url="images/D_006a_o_preview_3.jpg" tile5url="images/D_006a_o_5.jpg" tile3url="images/D_006a_o_3.jpg" prev5url="images/D_006a_o_preview_5.jpg" tile2url="images/D_006a_o_2.jpg" prev1url="images/D_006a_o_preview_1.jpg" tile4url="images/D_006a_o_4.jpg" tile0url="images/D_006a_o_0.jpg" prev0url="images/D_006a_o_preview_0.jpg" prev4url="images/D_006a_o_preview_4.jpg" tilescale="1.006845" tile1url="images/D_006a_o_1.jpg" tilesize="1461" prev2url="images/D_006a_o_preview_2.jpg">
+      <preview color="0x808080"/>
+    </input>
+    <view fovmode="0" pannorth="0">
+      <start pan="0" fov="70" tilt="0"/>
+      <min pan="0" fov="5" tilt="-90"/>
+      <max pan="360" fov="120" tilt="90"/>
+    </view>
+    <userdata author="" source="" info="" tags="" latitude="" description="" datetime="2016:01:14 12:04:13" copyright="" comment="" title="Đường chính" longitude=""/>
+    <hotspots height="20" wordwrap="1" width="180">
+      <label height="20" borderalpha="1" wordwrap="1" enabled="1" backgroundalpha="1" textalpha="1" borderradius="1" width="180" textcolor="0x000000" backgroundcolor="0xffffff" background="1" bordercolor="0x000000" border="1"/>
+      <polystyle borderalpha="1" handcursor="1" backgroundalpha="0.2509803921568627" mode="0" backgroundcolor="0x0000ff" bordercolor="0x0000ff"/>
+      <hotspot id="Point01" pan="178.814" target="91/-1.5/70" description="" title="Đường chính" tilt="1.7979" url="{node12}" skinid="ht_node"/>
+      <hotspot id="Point02" pan="-90.5369" target="80/-4.5/70" description="" title="Khu Đồng trâu" tilt="1.42598" url="{node16}" skinid="ht_node"/>
+      <hotspot id="Point03" pan="-0.0850636" target="177/-1.5/70" description="" title="Đường chính" tilt="6.09202" url="{node17}" skinid="ht_node"/>
+      <hotspot id="Point04" pan="93.2005" target="171.5/4.5/70" description="" title="Khu Kim Quy" tilt="2.25977" url="{node21}" skinid="ht_node"/>
+    </hotspots>
+    <media/>
+    <transition zoomfov="20" enabled="0" softedge="0" zoomoutpause="1" zoomspeed="2" zoomin="0" zoomout="0" blendcolor="0x000000" type="crossdissolve" blendtime="1"/>
+    <control invertwheel="0" lockedmouse="0" contextfullscreen="0" simulatemass="1" speedwheel="1" dblclickfullscreen="0" lockedkeyboardzoom="0" sensitivity="8" invertcontrol="1" lockedkeyboard="0" lockedwheel="0" hideabout="0"/>
+  </panorama>
+  <panorama id="node14">
+    <input prev3url="images/02_VC_o_preview_3.jpg" tile5url="images/02_VC_o_5.jpg" tile3url="images/02_VC_o_3.jpg" prev5url="images/02_VC_o_preview_5.jpg" tile2url="images/02_VC_o_2.jpg" prev1url="images/02_VC_o_preview_1.jpg" tile4url="images/02_VC_o_4.jpg" tile0url="images/02_VC_o_0.jpg" prev0url="images/02_VC_o_preview_0.jpg" prev4url="images/02_VC_o_preview_4.jpg" tilescale="1.006845" tile1url="images/02_VC_o_1.jpg" tilesize="1461" prev2url="images/02_VC_o_preview_2.jpg">
+      <preview color="0x808080"/>
+    </input>
+    <view fovmode="0" pannorth="0">
+      <start pan="0" fov="70" tilt="0"/>
+      <min pan="0" fov="5" tilt="-90"/>
+      <max pan="360" fov="120" tilt="90"/>
+    </view>
+    <userdata author="" source="" info="" tags="" latitude="" description="" datetime="2015:12:30 10:31:54" copyright="" comment="" title="Khu Đồng trâu" longitude=""/>
+    <hotspots height="20" wordwrap="1" width="180">
+      <label height="20" borderalpha="1" wordwrap="1" enabled="1" backgroundalpha="1" textalpha="1" borderradius="1" width="180" textcolor="0x000000" backgroundcolor="0xffffff" background="1" bordercolor="0x000000" border="1"/>
+      <polystyle borderalpha="1" handcursor="1" backgroundalpha="0.2509803921568627" mode="0" backgroundcolor="0x0000ff" bordercolor="0x0000ff"/>
+      <hotspot id="Point01" pan="141.398" target="123.5/-3/70" description="" title="Đường chính" tilt="1.87883" url="{node3}" skinid="ht_node"/>
+      <hotspot id="Point02" pan="36.4033" target="46.5/-3/70" description="" title="Đường chính" tilt="0.761086" url="{node1}" skinid="ht_node"/>
+    </hotspots>
+    <media/>
+    <transition zoomfov="20" enabled="0" softedge="0" zoomoutpause="1" zoomspeed="2" zoomin="0" zoomout="0" blendcolor="0x000000" type="crossdissolve" blendtime="1"/>
+    <control invertwheel="0" lockedmouse="0" contextfullscreen="0" simulatemass="1" speedwheel="1" dblclickfullscreen="0" lockedkeyboardzoom="0" sensitivity="8" invertcontrol="1" lockedkeyboard="0" lockedwheel="0" hideabout="0"/>
+  </panorama>
+  <panorama id="node15">
+    <input prev3url="images/01_D_o_preview_3.jpg" tile5url="images/01_D_o_5.jpg" tile3url="images/01_D_o_3.jpg" prev5url="images/01_D_o_preview_5.jpg" tile2url="images/01_D_o_2.jpg" prev1url="images/01_D_o_preview_1.jpg" tile4url="images/01_D_o_4.jpg" tile0url="images/01_D_o_0.jpg" prev0url="images/01_D_o_preview_0.jpg" prev4url="images/01_D_o_preview_4.jpg" tilescale="1.006845" tile1url="images/01_D_o_1.jpg" tilesize="1461" prev2url="images/01_D_o_preview_2.jpg">
+      <preview color="0x808080"/>
+    </input>
+    <view fovmode="0" pannorth="0">
+      <start pan="89" fov="70" tilt="1.5"/>
+      <min pan="0" fov="5" tilt="-90"/>
+      <max pan="360" fov="120" tilt="90"/>
+    </view>
+    <userdata author="" source="" info="" tags="" latitude="" description="" datetime="2016:01:09 10:14:14" copyright="" comment="" title="Khu Đồng trâu" longitude=""/>
+    <hotspots height="20" wordwrap="1" width="180">
+      <label height="20" borderalpha="1" wordwrap="1" enabled="1" backgroundalpha="1" textalpha="1" borderradius="1" width="180" textcolor="0x000000" backgroundcolor="0xffffff" background="1" bordercolor="0x000000" border="1"/>
+      <polystyle borderalpha="1" handcursor="1" backgroundalpha="0.2509803921568627" mode="0" backgroundcolor="0x0000ff" bordercolor="0x0000ff"/>
+      <hotspot id="Point01" pan="0.915886" target="3/0.5/70" description="" title="Đường chính" tilt="0.271826" url="{node12}" skinid="ht_node"/>
+    </hotspots>
+    <media/>
+    <transition zoomfov="20" enabled="0" softedge="0" zoomoutpause="1" zoomspeed="2" zoomin="0" zoomout="0" blendcolor="0x000000" type="crossdissolve" blendtime="1"/>
+    <control invertwheel="0" lockedmouse="0" contextfullscreen="0" simulatemass="1" speedwheel="1" dblclickfullscreen="0" lockedkeyboardzoom="0" sensitivity="8" invertcontrol="1" lockedkeyboard="0" lockedwheel="0" hideabout="0"/>
+  </panorama>
+  <panorama id="node16">
+    <input prev3url="images/Hoca_o_preview_3.jpg" tile5url="images/Hoca_o_5.jpg" tile3url="images/Hoca_o_3.jpg" prev5url="images/Hoca_o_preview_5.jpg" tile2url="images/Hoca_o_2.jpg" prev1url="images/Hoca_o_preview_1.jpg" tile4url="images/Hoca_o_4.jpg" tile0url="images/Hoca_o_0.jpg" prev0url="images/Hoca_o_preview_0.jpg" prev4url="images/Hoca_o_preview_4.jpg" tilescale="1.006845" tile1url="images/Hoca_o_1.jpg" tilesize="1461" prev2url="images/Hoca_o_preview_2.jpg">
+      <preview color="0x808080"/>
+    </input>
+    <view fovmode="0" pannorth="0">
+      <start pan="0" fov="70" tilt="0"/>
+      <min pan="0" fov="5" tilt="-90"/>
+      <max pan="360" fov="120" tilt="90"/>
+    </view>
+    <userdata author="" source="" info="" tags="" latitude="" description="" datetime="2015:12:24 10:52:19" copyright="" comment="" title="Khu Đồng trâu" longitude=""/>
+    <hotspots height="20" wordwrap="1" width="180">
+      <label height="20" borderalpha="1" wordwrap="1" enabled="1" backgroundalpha="1" textalpha="1" borderradius="1" width="180" textcolor="0x000000" backgroundcolor="0xffffff" background="1" bordercolor="0x000000" border="1"/>
+      <polystyle borderalpha="1" handcursor="1" backgroundalpha="0.2509803921568627" mode="0" backgroundcolor="0x0000ff" bordercolor="0x0000ff"/>
+      <hotspot id="Point01" pan="-95.5236" target="88/-6/70" description="" title="Đường chính" tilt="-0.964388" url="{node13}" skinid="ht_node"/>
+    </hotspots>
+    <media/>
+    <transition zoomfov="20" enabled="0" softedge="0" zoomoutpause="1" zoomspeed="2" zoomin="0" zoomout="0" blendcolor="0x000000" type="crossdissolve" blendtime="1"/>
+    <control invertwheel="0" lockedmouse="0" contextfullscreen="0" simulatemass="1" speedwheel="1" dblclickfullscreen="0" lockedkeyboardzoom="0" sensitivity="8" invertcontrol="1" lockedkeyboard="0" lockedwheel="0" hideabout="0"/>
+  </panorama>
+  <panorama id="node17">
+    <input prev3url="images/D_007_o_preview_3.jpg" tile5url="images/D_007_o_5.jpg" tile3url="images/D_007_o_3.jpg" prev5url="images/D_007_o_preview_5.jpg" tile2url="images/D_007_o_2.jpg" prev1url="images/D_007_o_preview_1.jpg" tile4url="images/D_007_o_4.jpg" tile0url="images/D_007_o_0.jpg" prev0url="images/D_007_o_preview_0.jpg" prev4url="images/D_007_o_preview_4.jpg" tilescale="1.006845" tile1url="images/D_007_o_1.jpg" tilesize="1461" prev2url="images/D_007_o_preview_2.jpg">
+      <preview color="0x808080"/>
+    </input>
+    <view fovmode="0" pannorth="0">
+      <start pan="0" fov="70" tilt="0"/>
+      <min pan="0" fov="5" tilt="-90"/>
+      <max pan="360" fov="120" tilt="90"/>
+    </view>
+    <userdata author="" source="" info="" tags="" latitude="" description="" datetime="2016:01:25 16:41:36" copyright="" comment="" title="Đường chính" longitude=""/>
+    <hotspots height="20" wordwrap="1" width="180">
+      <label height="20" borderalpha="1" wordwrap="1" enabled="1" backgroundalpha="1" textalpha="1" borderradius="1" width="180" textcolor="0x000000" backgroundcolor="0xffffff" background="1" bordercolor="0x000000" border="1"/>
+      <polystyle borderalpha="1" handcursor="1" backgroundalpha="0.2509803921568627" mode="0" backgroundcolor="0x0000ff" bordercolor="0x0000ff"/>
+      <hotspot id="Point01" pan="-92.9846" target="86/-0.5/70" description="" title="Đường chính" tilt="2.00875" url="{node18}" skinid="ht_node"/>
+      <hotspot id="Point02" pan="-3.83064" target="178.5/1/70" description="" title="Đường chính" tilt="5.89075" url="{node13}" skinid="ht_node"/>
+      <hotspot id="Point03" pan="82.4684" target="332.5/7/70" description="" title="Hồ Hải sản" tilt="5.31526" url="{node28}" skinid="ht_node"/>
+    </hotspots>
+    <media/>
+    <transition zoomfov="20" enabled="0" softedge="0" zoomoutpause="1" zoomspeed="2" zoomin="0" zoomout="0" blendcolor="0x000000" type="crossdissolve" blendtime="1"/>
+    <control invertwheel="0" lockedmouse="0" contextfullscreen="0" simulatemass="1" speedwheel="1" dblclickfullscreen="0" lockedkeyboardzoom="0" sensitivity="8" invertcontrol="1" lockedkeyboard="0" lockedwheel="0" hideabout="0"/>
+  </panorama>
+  <panorama id="node18">
+    <input prev3url="images/D_008_o_preview_3.jpg" tile5url="images/D_008_o_5.jpg" tile3url="images/D_008_o_3.jpg" prev5url="images/D_008_o_preview_5.jpg" tile2url="images/D_008_o_2.jpg" prev1url="images/D_008_o_preview_1.jpg" tile4url="images/D_008_o_4.jpg" tile0url="images/D_008_o_0.jpg" prev0url="images/D_008_o_preview_0.jpg" prev4url="images/D_008_o_preview_4.jpg" tilescale="1.006845" tile1url="images/D_008_o_1.jpg" tilesize="1461" prev2url="images/D_008_o_preview_2.jpg">
+      <preview color="0x808080"/>
+    </input>
+    <view fovmode="0" pannorth="0">
+      <start pan="0" fov="70" tilt="0"/>
+      <min pan="0" fov="5" tilt="-90"/>
+      <max pan="360" fov="120" tilt="90"/>
+    </view>
+    <userdata author="" source="" info="" tags="" latitude="" description="" datetime="2016:01:24 20:53:19" copyright="" comment="" title="Đường chính" longitude=""/>
+    <hotspots height="20" wordwrap="1" width="180">
+      <label height="20" borderalpha="1" wordwrap="1" enabled="1" backgroundalpha="1" textalpha="1" borderradius="1" width="180" textcolor="0x000000" backgroundcolor="0xffffff" background="1" bordercolor="0x000000" border="1"/>
+      <polystyle borderalpha="1" handcursor="1" backgroundalpha="0.2509803921568627" mode="0" backgroundcolor="0x0000ff" bordercolor="0x0000ff"/>
+      <hotspot id="Point01" pan="166.849" target="258/4/70" description="" title="Khu Kim Quy" tilt="1.56119" url="{node21}" skinid="ht_node"/>
+      <hotspot id="Point02" pan="-95.433" target="85.5/6/70" description="" title="Đường chính" tilt="2.41083" url="{node17}" skinid="ht_node"/>
+      <hotspot id="Point03" pan="-6.50572" target="180.5/-4/70" description="" title="Khu Ốc Đảo" tilt="4.67727" url="{node46}" skinid="ht_node"/>
+    </hotspots>
+    <media/>
+    <transition zoomfov="20" enabled="0" softedge="0" zoomoutpause="1" zoomspeed="2" zoomin="0" zoomout="0" blendcolor="0x000000" type="crossdissolve" blendtime="1"/>
+    <control invertwheel="0" lockedmouse="0" contextfullscreen="0" simulatemass="1" speedwheel="1" dblclickfullscreen="0" lockedkeyboardzoom="0" sensitivity="8" invertcontrol="1" lockedkeyboard="0" lockedwheel="0" hideabout="0"/>
+  </panorama>
+  <panorama id="node19">
+    <input prev3url="images/KQ_01_o_preview_3.jpg" tile5url="images/KQ_01_o_5.jpg" tile3url="images/KQ_01_o_3.jpg" prev5url="images/KQ_01_o_preview_5.jpg" tile2url="images/KQ_01_o_2.jpg" prev1url="images/KQ_01_o_preview_1.jpg" tile4url="images/KQ_01_o_4.jpg" tile0url="images/KQ_01_o_0.jpg" prev0url="images/KQ_01_o_preview_0.jpg" prev4url="images/KQ_01_o_preview_4.jpg" tilescale="1.006845" tile1url="images/KQ_01_o_1.jpg" tilesize="1461" prev2url="images/KQ_01_o_preview_2.jpg">
+      <preview color="0x808080"/>
+    </input>
+    <view fovmode="0" pannorth="0">
+      <start pan="0" fov="70" tilt="0"/>
+      <min pan="0" fov="5" tilt="-90"/>
+      <max pan="360" fov="120" tilt="90"/>
+    </view>
+    <userdata author="" source="" info="" tags="" latitude="" description="" datetime="2016:01:24 21:07:48" copyright="" comment="" title="Khu Kim Quy" longitude=""/>
+    <hotspots height="20" wordwrap="1" width="180">
+      <label height="20" borderalpha="1" wordwrap="1" enabled="1" backgroundalpha="1" textalpha="1" borderradius="1" width="180" textcolor="0x000000" backgroundcolor="0xffffff" background="1" bordercolor="0x000000" border="1"/>
+      <polystyle borderalpha="1" handcursor="1" backgroundalpha="0.2509803921568627" mode="0" backgroundcolor="0x0000ff" bordercolor="0x0000ff"/>
+      <hotspot id="Point01" pan="91.1996" target="91/3.5/70" description="" title="Khu Kim Quy" tilt="5.08598" url="{node20}" skinid="ht_node"/>
+      <hotspot id="Point02" pan="-23.1252" target="242.5/7.5/70" description="" title="Đường chính" tilt="5.76451" url="{node1}" skinid="ht_node"/>
+    </hotspots>
+    <media/>
+    <transition zoomfov="20" enabled="0" softedge="0" zoomoutpause="1" zoomspeed="2" zoomin="0" zoomout="0" blendcolor="0x000000" type="crossdissolve" blendtime="1"/>
+    <control invertwheel="0" lockedmouse="0" contextfullscreen="0" simulatemass="1" speedwheel="1" dblclickfullscreen="0" lockedkeyboardzoom="0" sensitivity="8" invertcontrol="1" lockedkeyboard="0" lockedwheel="0" hideabout="0"/>
+  </panorama>
+  <panorama id="node20">
+    <input prev3url="images/KQ_02_o_preview_3.jpg" tile5url="images/KQ_02_o_5.jpg" tile3url="images/KQ_02_o_3.jpg" prev5url="images/KQ_02_o_preview_5.jpg" tile2url="images/KQ_02_o_2.jpg" prev1url="images/KQ_02_o_preview_1.jpg" tile4url="images/KQ_02_o_4.jpg" tile0url="images/KQ_02_o_0.jpg" prev0url="images/KQ_02_o_preview_0.jpg" prev4url="images/KQ_02_o_preview_4.jpg" tilescale="1.006845" tile1url="images/KQ_02_o_1.jpg" tilesize="1461" prev2url="images/KQ_02_o_preview_2.jpg">
+      <preview color="0x808080"/>
+    </input>
+    <view fovmode="0" pannorth="0">
+      <start pan="0" fov="70" tilt="0"/>
+      <min pan="0" fov="5" tilt="-90"/>
+      <max pan="360" fov="120" tilt="90"/>
+    </view>
+    <userdata author="" source="" info="" tags="" latitude="" description="" datetime="2016:01:24 21:17:13" copyright="" comment="" title="Khu Kim Quy" longitude=""/>
+    <hotspots height="20" wordwrap="1" width="180">
+      <label height="20" borderalpha="1" wordwrap="1" enabled="1" backgroundalpha="1" textalpha="1" borderradius="1" width="180" textcolor="0x000000" backgroundcolor="0xffffff" background="1" bordercolor="0x000000" border="1"/>
+      <polystyle borderalpha="1" handcursor="1" backgroundalpha="0.2509803921568627" mode="0" backgroundcolor="0x0000ff" bordercolor="0x0000ff"/>
+      <hotspot id="Point01" pan="-89.4581" target="277.5/1.5/70" description="" title="Khu Kim Quy" tilt="3.67781" url="{node19}" skinid="ht_node"/>
+      <hotspot id="Point02" pan="84.8067" target="90.5/3/70" description="" title="Khu Kim Quy" tilt="3.64863" url="{node21}" skinid="ht_node"/>
+      <hotspot id="Point03" pan="-2.07785" target="185.5/-1/70" description="" title="Đường chính" tilt="5.77046" url="{node12}" skinid="ht_node"/>
+    </hotspots>
+    <media/>
+    <transition zoomfov="20" enabled="0" softedge="0" zoomoutpause="1" zoomspeed="2" zoomin="0" zoomout="0" blendcolor="0x000000" type="crossdissolve" blendtime="1"/>
+    <control invertwheel="0" lockedmouse="0" contextfullscreen="0" simulatemass="1" speedwheel="1" dblclickfullscreen="0" lockedkeyboardzoom="0" sensitivity="8" invertcontrol="1" lockedkeyboard="0" lockedwheel="0" hideabout="0"/>
+  </panorama>
+  <panorama id="node21">
+    <input prev3url="images/KQ_03_o_preview_3.jpg" tile5url="images/KQ_03_o_5.jpg" tile3url="images/KQ_03_o_3.jpg" prev5url="images/KQ_03_o_preview_5.jpg" tile2url="images/KQ_03_o_2.jpg" prev1url="images/KQ_03_o_preview_1.jpg" tile4url="images/KQ_03_o_4.jpg" tile0url="images/KQ_03_o_0.jpg" prev0url="images/KQ_03_o_preview_0.jpg" prev4url="images/KQ_03_o_preview_4.jpg" tilescale="1.006845" tile1url="images/KQ_03_o_1.jpg" tilesize="1461" prev2url="images/KQ_03_o_preview_2.jpg">
+      <preview color="0x808080"/>
+    </input>
+    <view fovmode="0" pannorth="0">
+      <start pan="0" fov="70" tilt="0"/>
+      <min pan="0" fov="5" tilt="-90"/>
+      <max pan="360" fov="120" tilt="90"/>
+    </view>
+    <userdata author="" source="" info="" tags="" latitude="" description="" datetime="2016:01:24 21:40:35" copyright="" comment="" title="Khu Kim Quy" longitude=""/>
+    <hotspots height="20" wordwrap="1" width="180">
+      <label height="20" borderalpha="1" wordwrap="1" enabled="1" backgroundalpha="1" textalpha="1" borderradius="1" width="180" textcolor="0x000000" backgroundcolor="0xffffff" background="1" bordercolor="0x000000" border="1"/>
+      <polystyle borderalpha="1" handcursor="1" backgroundalpha="0.2509803921568627" mode="0" backgroundcolor="0x0000ff" bordercolor="0x0000ff"/>
+      <hotspot id="Point01" pan="-94.8615" target="271.5/5/70" description="" title="Khu Kim Quy" tilt="5.03687" url="{node20}" skinid="ht_node"/>
+      <hotspot id="Point02" pan="69.9542" target="344/1/70" description="" title="Đường chính" tilt="3.6821" url="{node18}" skinid="ht_node"/>
+      <hotspot id="Point03" pan="2.42564" target="268/0.5/70" description="" title="Đường chính" tilt="5.57994" url="{node13}" skinid="ht_node"/>
+    </hotspots>
+    <media/>
+    <transition zoomfov="20" enabled="0" softedge="0" zoomoutpause="1" zoomspeed="2" zoomin="0" zoomout="0" blendcolor="0x000000" type="crossdissolve" blendtime="1"/>
+    <control invertwheel="0" lockedmouse="0" contextfullscreen="0" simulatemass="1" speedwheel="1" dblclickfullscreen="0" lockedkeyboardzoom="0" sensitivity="8" invertcontrol="1" lockedkeyboard="0" lockedwheel="0" hideabout="0"/>
+  </panorama>
+  <panorama id="node23">
+    <input prev3url="images/CB_01_D_o_preview_3.jpg" tile5url="images/CB_01_D_o_5.jpg" tile3url="images/CB_01_D_o_3.jpg" prev5url="images/CB_01_D_o_preview_5.jpg" tile2url="images/CB_01_D_o_2.jpg" prev1url="images/CB_01_D_o_preview_1.jpg" tile4url="images/CB_01_D_o_4.jpg" tile0url="images/CB_01_D_o_0.jpg" prev0url="images/CB_01_D_o_preview_0.jpg" prev4url="images/CB_01_D_o_preview_4.jpg" tilescale="1.006845" tile1url="images/CB_01_D_o_1.jpg" tilesize="1461" prev2url="images/CB_01_D_o_preview_2.jpg">
+      <preview color="0x808080"/>
+    </input>
+    <view fovmode="0" pannorth="0">
+      <start pan="0" fov="70" tilt="0"/>
+      <min pan="0" fov="5" tilt="-90"/>
+      <max pan="360" fov="120" tilt="90"/>
+    </view>
+    <userdata author="" source="" info="" tags="" latitude="" description="" datetime="2016:01:17 16:19:25" copyright="" comment="" title="Khu Cau Bụi" longitude=""/>
+    <hotspots height="20" wordwrap="1" width="180">
+      <label height="20" borderalpha="1" wordwrap="1" enabled="1" backgroundalpha="1" textalpha="1" borderradius="1" width="180" textcolor="0x000000" backgroundcolor="0xffffff" background="1" bordercolor="0x000000" border="1"/>
+      <polystyle borderalpha="1" handcursor="1" backgroundalpha="0.2509803921568627" mode="0" backgroundcolor="0x0000ff" bordercolor="0x0000ff"/>
+      <hotspot id="Point01" pan="-90.8427" target="274.5/2/70" description="" title="Khu Cau Bụi" tilt="2.36418" url="{node24}" skinid="ht_node"/>
+      <hotspot id="Point02" pan="125.707" target="229.5/1/70" description="" title="Hồ Hải sản" tilt="3.06285" url="{node28}" skinid="ht_node"/>
+      <hotspot id="Point03" pan="-143.319" target="174.5/-4/70" description="" title="Khu Cau Bụi" tilt="2.81764" url="{node25}" skinid="ht_node"/>
+    </hotspots>
+    <media/>
+    <transition zoomfov="20" enabled="0" softedge="0" zoomoutpause="1" zoomspeed="2" zoomin="0" zoomout="0" blendcolor="0x000000" type="crossdissolve" blendtime="1"/>
+    <control invertwheel="0" lockedmouse="0" contextfullscreen="0" simulatemass="1" speedwheel="1" dblclickfullscreen="0" lockedkeyboardzoom="0" sensitivity="8" invertcontrol="1" lockedkeyboard="0" lockedwheel="0" hideabout="0"/>
+  </panorama>
+  <panorama id="node24">
+    <input prev3url="images/CB_02_D_o_preview_3.jpg" tile5url="images/CB_02_D_o_5.jpg" tile3url="images/CB_02_D_o_3.jpg" prev5url="images/CB_02_D_o_preview_5.jpg" tile2url="images/CB_02_D_o_2.jpg" prev1url="images/CB_02_D_o_preview_1.jpg" tile4url="images/CB_02_D_o_4.jpg" tile0url="images/CB_02_D_o_0.jpg" prev0url="images/CB_02_D_o_preview_0.jpg" prev4url="images/CB_02_D_o_preview_4.jpg" tilescale="1.006845" tile1url="images/CB_02_D_o_1.jpg" tilesize="1461" prev2url="images/CB_02_D_o_preview_2.jpg">
+      <preview color="0x808080"/>
+    </input>
+    <view fovmode="0" pannorth="0">
+      <start pan="0" fov="70" tilt="0"/>
+      <min pan="0" fov="5" tilt="-90"/>
+      <max pan="360" fov="120" tilt="90"/>
+    </view>
+    <userdata author="" source="" info="" tags="" latitude="" description="" datetime="2016:01:23 15:08:01" copyright="" comment="" title="Khu Cau Bụi" longitude=""/>
+    <hotspots height="20" wordwrap="1" width="180">
+      <label height="20" borderalpha="1" wordwrap="1" enabled="1" backgroundalpha="1" textalpha="1" borderradius="1" width="180" textcolor="0x000000" backgroundcolor="0xffffff" background="1" bordercolor="0x000000" border="1"/>
+      <polystyle borderalpha="1" handcursor="1" backgroundalpha="0.2509803921568627" mode="0" backgroundcolor="0x0000ff" bordercolor="0x0000ff"/>
+      <hotspot id="Point01" pan="-86.0958" target="191/5/70" description="" title="Khu Cau Bụi" tilt="3.35953" url="{node22}" skinid="ht_node"/>
+      <hotspot id="Point02" pan="91.5259" target="86.5/3/70" description="" title="Khu Cau Bụi" tilt="4.22892" url="{node23}" skinid="ht_node"/>
+    </hotspots>
+    <media/>
+    <transition zoomfov="20" enabled="0" softedge="0" zoomoutpause="1" zoomspeed="2" zoomin="0" zoomout="0" blendcolor="0x000000" type="crossdissolve" blendtime="1"/>
+    <control invertwheel="0" lockedmouse="0" contextfullscreen="0" simulatemass="1" speedwheel="1" dblclickfullscreen="0" lockedkeyboardzoom="0" sensitivity="8" invertcontrol="1" lockedkeyboard="0" lockedwheel="0" hideabout="0"/>
+  </panorama>
+  <panorama id="node22">
+    <input prev3url="images/CB_03_D_o_preview_3.jpg" tile5url="images/CB_03_D_o_5.jpg" tile3url="images/CB_03_D_o_3.jpg" prev5url="images/CB_03_D_o_preview_5.jpg" tile2url="images/CB_03_D_o_2.jpg" prev1url="images/CB_03_D_o_preview_1.jpg" tile4url="images/CB_03_D_o_4.jpg" tile0url="images/CB_03_D_o_0.jpg" prev0url="images/CB_03_D_o_preview_0.jpg" prev4url="images/CB_03_D_o_preview_4.jpg" tilescale="1.006845" tile1url="images/CB_03_D_o_1.jpg" tilesize="1461" prev2url="images/CB_03_D_o_preview_2.jpg">
+      <preview color="0x808080"/>
+    </input>
+    <view fovmode="0" pannorth="0">
+      <start pan="0" fov="70" tilt="0"/>
+      <min pan="0" fov="5" tilt="-90"/>
+      <max pan="360" fov="120" tilt="90"/>
+    </view>
+    <userdata author="" source="" info="" tags="" latitude="" description="" datetime="2015:12:19 18:07:21" copyright="" comment="" title="Khu Cau Bụi" longitude=""/>
+    <hotspots height="20" wordwrap="1" width="180">
+      <label height="20" borderalpha="1" wordwrap="1" enabled="1" backgroundalpha="1" textalpha="1" borderradius="1" width="180" textcolor="0x000000" backgroundcolor="0xffffff" background="1" bordercolor="0x000000" border="1"/>
+      <polystyle borderalpha="1" handcursor="1" backgroundalpha="0.2509803921568627" mode="0" backgroundcolor="0x0000ff" bordercolor="0x0000ff"/>
+      <hotspot id="Point01" pan="-0.517978" target="94.5/0.5/70" description="" title="Khu Cau Bụi" tilt="5.54954" url="{node24}" skinid="ht_node"/>
+      <hotspot id="Point02" pan="-91.0492" target="2/3/70" description="" title="Khu Chuông Vàng" tilt="5.8696" url="{node33}" skinid="ht_node"/>
+    </hotspots>
+    <media/>
+    <transition zoomfov="20" enabled="0" softedge="0" zoomoutpause="1" zoomspeed="2" zoomin="0" zoomout="0" blendcolor="0x000000" type="crossdissolve" blendtime="1"/>
+    <control invertwheel="0" lockedmouse="0" contextfullscreen="0" simulatemass="1" speedwheel="1" dblclickfullscreen="0" lockedkeyboardzoom="0" sensitivity="8" invertcontrol="1" lockedkeyboard="0" lockedwheel="0" hideabout="0"/>
+  </panorama>
+  <panorama id="node25">
+    <input prev3url="images/CB_Dongtrau_o_preview_3.jpg" tile5url="images/CB_Dongtrau_o_5.jpg" tile3url="images/CB_Dongtrau_o_3.jpg" prev5url="images/CB_Dongtrau_o_preview_5.jpg" tile2url="images/CB_Dongtrau_o_2.jpg" prev1url="images/CB_Dongtrau_o_preview_1.jpg" tile4url="images/CB_Dongtrau_o_4.jpg" tile0url="images/CB_Dongtrau_o_0.jpg" prev0url="images/CB_Dongtrau_o_preview_0.jpg" prev4url="images/CB_Dongtrau_o_preview_4.jpg" tilescale="1.006845" tile1url="images/CB_Dongtrau_o_1.jpg" tilesize="1461" prev2url="images/CB_Dongtrau_o_preview_2.jpg">
+      <preview color="0x808080"/>
+    </input>
+    <view fovmode="0" pannorth="0">
+      <start pan="201.5" fov="70" tilt="-3.5"/>
+      <min pan="0" fov="5" tilt="-90"/>
+      <max pan="360" fov="120" tilt="90"/>
+    </view>
+    <userdata author="" source="" info="" tags="" latitude="" description="" datetime="2015:12:26 11:02:42" copyright="" comment="" title="Khu Cau Bụi" longitude=""/>
+    <hotspots height="20" wordwrap="1" width="180">
+      <label height="20" borderalpha="1" wordwrap="1" enabled="1" backgroundalpha="1" textalpha="1" borderradius="1" width="180" textcolor="0x000000" backgroundcolor="0xffffff" background="1" bordercolor="0x000000" border="1"/>
+      <polystyle borderalpha="1" handcursor="1" backgroundalpha="0.2509803921568627" mode="0" backgroundcolor="0x0000ff" bordercolor="0x0000ff"/>
+      <hotspot id="Point01" pan="-136.245" target="183/0/70" description="" title="Khu Cau Bụi_Sân bóng" tilt="3.16996" url="{node26}" skinid="ht_node"/>
+      <hotspot id="Point02" pan="49.9913" target="146/0.5/70" description="" title="Hồ Hải sản" tilt="2.34422" url="{node28}" skinid="ht_node"/>
+      <hotspot id="Point03" pan="-104.294" target="340.5/3.5/70" description="" title="Khu Cau Bụi" tilt="3.68619" url="{node24}" skinid="ht_node"/>
+      <hotspot id="Point04" pan="-9.32921" target="31.5/0.5/70" description="" title="Khu Cau Bụi" tilt="6.23945" url="{node23}" skinid="ht_node"/>
+    </hotspots>
+    <media/>
+    <transition zoomfov="20" enabled="0" softedge="0" zoomoutpause="1" zoomspeed="2" zoomin="0" zoomout="0" blendcolor="0x000000" type="crossdissolve" blendtime="1"/>
+    <control invertwheel="0" lockedmouse="0" contextfullscreen="0" simulatemass="1" speedwheel="1" dblclickfullscreen="0" lockedkeyboardzoom="0" sensitivity="8" invertcontrol="1" lockedkeyboard="0" lockedwheel="0" hideabout="0"/>
+  </panorama>
+  <panorama id="node26">
+    <input prev3url="images/CB_sanbong_o_preview_3.jpg" tile5url="images/CB_sanbong_o_5.jpg" tile3url="images/CB_sanbong_o_3.jpg" prev5url="images/CB_sanbong_o_preview_5.jpg" tile2url="images/CB_sanbong_o_2.jpg" prev1url="images/CB_sanbong_o_preview_1.jpg" tile4url="images/CB_sanbong_o_4.jpg" tile0url="images/CB_sanbong_o_0.jpg" prev0url="images/CB_sanbong_o_preview_0.jpg" prev4url="images/CB_sanbong_o_preview_4.jpg" tilescale="1.006845" tile1url="images/CB_sanbong_o_1.jpg" tilesize="1461" prev2url="images/CB_sanbong_o_preview_2.jpg">
+      <preview color="0x808080"/>
+    </input>
+    <view fovmode="0" pannorth="0">
+      <start pan="192.5" fov="70" tilt="-2"/>
+      <min pan="0" fov="5" tilt="-90"/>
+      <max pan="360" fov="120" tilt="90"/>
+    </view>
+    <userdata author="" source="" info="" tags="" latitude="" description="" datetime="2016:01:03 17:35:04" copyright="" comment="" title="Khu Cau Bụi_Sân bóng" longitude=""/>
+    <hotspots height="20" wordwrap="1" width="180">
+      <label height="20" borderalpha="1" wordwrap="1" enabled="1" backgroundalpha="1" textalpha="1" borderradius="1" width="180" textcolor="0x000000" backgroundcolor="0xffffff" background="1" bordercolor="0x000000" border="1"/>
+      <polystyle borderalpha="1" handcursor="1" backgroundalpha="0.2509803921568627" mode="0" backgroundcolor="0x0000ff" bordercolor="0x0000ff"/>
+      <hotspot id="Point01" pan="1.73306" target="46/5/70" description="" title="Khu Cau Bụi" tilt="4.35932" url="{node25}" skinid="ht_node"/>
+    </hotspots>
+    <media/>
+    <transition zoomfov="20" enabled="0" softedge="0" zoomoutpause="1" zoomspeed="2" zoomin="0" zoomout="0" blendcolor="0x000000" type="crossdissolve" blendtime="1"/>
+    <control invertwheel="0" lockedmouse="0" contextfullscreen="0" simulatemass="1" speedwheel="1" dblclickfullscreen="0" lockedkeyboardzoom="0" sensitivity="8" invertcontrol="1" lockedkeyboard="0" lockedwheel="0" hideabout="0"/>
+  </panorama>
+  <panorama id="node28">
+    <input prev3url="images/D_NQ001_o_preview_3.jpg" tile5url="images/D_NQ001_o_5.jpg" tile3url="images/D_NQ001_o_3.jpg" prev5url="images/D_NQ001_o_preview_5.jpg" tile2url="images/D_NQ001_o_2.jpg" prev1url="images/D_NQ001_o_preview_1.jpg" tile4url="images/D_NQ001_o_4.jpg" tile0url="images/D_NQ001_o_0.jpg" prev0url="images/D_NQ001_o_preview_0.jpg" prev4url="images/D_NQ001_o_preview_4.jpg" tilescale="1.006845" tile1url="images/D_NQ001_o_1.jpg" tilesize="1461" prev2url="images/D_NQ001_o_preview_2.jpg">
+      <preview color="0x808080"/>
+    </input>
+    <view fovmode="0" pannorth="0">
+      <start pan="148.5" fov="70" tilt="0"/>
+      <min pan="0" fov="5" tilt="-90"/>
+      <max pan="360" fov="120" tilt="90"/>
+    </view>
+    <userdata author="" source="" info="" tags="" latitude="" description="" datetime="2016:01:22 08:54:57" copyright="" comment="" title="Hồ Hải sản" longitude=""/>
+    <hotspots height="20" wordwrap="1" width="180">
+      <label height="20" borderalpha="1" wordwrap="1" enabled="1" backgroundalpha="1" textalpha="1" borderradius="1" width="180" textcolor="0x000000" backgroundcolor="0xffffff" background="1" bordercolor="0x000000" border="1"/>
+      <polystyle borderalpha="1" handcursor="1" backgroundalpha="0.2509803921568627" mode="0" backgroundcolor="0x0000ff" bordercolor="0x0000ff"/>
+      <hotspot id="Point01" pan="149.404" target="267.5/3/70" description="" title="Đường chính" tilt="4.73435" url="{node17}" skinid="ht_node"/>
+      <hotspot id="Point02" pan="61.6363" target="48.5/3/70" description="" title="Khu Nguyệt Quế" tilt="4.56048" url="{node29}" skinid="ht_node"/>
+      <hotspot id="Point03" pan="-31.014" target="221/-0.5/70" description="" title="Khu Cau Bụi" tilt="5.34318" url="{node25}" skinid="ht_node"/>
+      <hotspot id="Point04" pan="7.50141" target="323/1.5/70" description="" title="Khu Cau Bụi" tilt="4.55899" url="{node23}" skinid="ht_node"/>
+    </hotspots>
+    <media/>
+    <transition zoomfov="20" enabled="0" softedge="0" zoomoutpause="1" zoomspeed="2" zoomin="0" zoomout="0" blendcolor="0x000000" type="crossdissolve" blendtime="1"/>
+    <control invertwheel="0" lockedmouse="0" contextfullscreen="0" simulatemass="1" speedwheel="1" dblclickfullscreen="0" lockedkeyboardzoom="0" sensitivity="8" invertcontrol="1" lockedkeyboard="0" lockedwheel="0" hideabout="0"/>
+  </panorama>
+  <panorama id="node29">
+    <input prev3url="images/D_NQ002_o_preview_3.jpg" tile5url="images/D_NQ002_o_5.jpg" tile3url="images/D_NQ002_o_3.jpg" prev5url="images/D_NQ002_o_preview_5.jpg" tile2url="images/D_NQ002_o_2.jpg" prev1url="images/D_NQ002_o_preview_1.jpg" tile4url="images/D_NQ002_o_4.jpg" tile0url="images/D_NQ002_o_0.jpg" prev0url="images/D_NQ002_o_preview_0.jpg" prev4url="images/D_NQ002_o_preview_4.jpg" tilescale="1.006845" tile1url="images/D_NQ002_o_1.jpg" tilesize="1461" prev2url="images/D_NQ002_o_preview_2.jpg">
+      <preview color="0x808080"/>
+    </input>
+    <view fovmode="0" pannorth="0">
+      <start pan="144" fov="70" tilt="4.5"/>
+      <min pan="0" fov="5" tilt="-90"/>
+      <max pan="360" fov="120" tilt="90"/>
+    </view>
+    <userdata author="" source="" info="" tags="" latitude="" description="" datetime="2016:01:21 22:14:50" copyright="" comment="" title="Khu Nguyệt Quế" longitude=""/>
+    <hotspots height="20" wordwrap="1" width="180">
+      <label height="20" borderalpha="1" wordwrap="1" enabled="1" backgroundalpha="1" textalpha="1" borderradius="1" width="180" textcolor="0x000000" backgroundcolor="0xffffff" background="1" bordercolor="0x000000" border="1"/>
+      <polystyle borderalpha="1" handcursor="1" backgroundalpha="0.2509803921568627" mode="0" backgroundcolor="0x0000ff" bordercolor="0x0000ff"/>
+      <hotspot id="Point01" pan="-125.744" target="242/-1.5/70" description="" title="Hồ Hải sản" tilt="5.53903" url="{node28}" skinid="ht_node"/>
+      <hotspot id="Point02" pan="54.1035" target="359/4/70" description="" title="Khu Nguyệt Quế" tilt="3.57943" url="{node30}" skinid="ht_node"/>
+    </hotspots>
+    <media/>
+    <transition zoomfov="20" enabled="0" softedge="0" zoomoutpause="1" zoomspeed="2" zoomin="0" zoomout="0" blendcolor="0x000000" type="crossdissolve" blendtime="1"/>
+    <control invertwheel="0" lockedmouse="0" contextfullscreen="0" simulatemass="1" speedwheel="1" dblclickfullscreen="0" lockedkeyboardzoom="0" sensitivity="8" invertcontrol="1" lockedkeyboard="0" lockedwheel="0" hideabout="0"/>
+  </panorama>
+  <panorama id="node30">
+    <input prev3url="images/D_NQ003_o_preview_3.jpg" tile5url="images/D_NQ003_o_5.jpg" tile3url="images/D_NQ003_o_3.jpg" prev5url="images/D_NQ003_o_preview_5.jpg" tile2url="images/D_NQ003_o_2.jpg" prev1url="images/D_NQ003_o_preview_1.jpg" tile4url="images/D_NQ003_o_4.jpg" tile0url="images/D_NQ003_o_0.jpg" prev0url="images/D_NQ003_o_preview_0.jpg" prev4url="images/D_NQ003_o_preview_4.jpg" tilescale="1.006845" tile1url="images/D_NQ003_o_1.jpg" tilesize="1461" prev2url="images/D_NQ003_o_preview_2.jpg">
+      <preview color="0x808080"/>
+    </input>
+    <view fovmode="0" pannorth="0">
+      <start pan="88" fov="70" tilt="2.5"/>
+      <min pan="0" fov="5" tilt="-90"/>
+      <max pan="360" fov="120" tilt="90"/>
+    </view>
+    <userdata author="" source="" info="" tags="" latitude="" description="" datetime="2016:01:21 22:10:29" copyright="" comment="" title="Khu Nguyệt Quế" longitude=""/>
+    <hotspots height="20" wordwrap="1" width="180">
+      <label height="20" borderalpha="1" wordwrap="1" enabled="1" backgroundalpha="1" textalpha="1" borderradius="1" width="180" textcolor="0x000000" backgroundcolor="0xffffff" background="1" bordercolor="0x000000" border="1"/>
+      <polystyle borderalpha="1" handcursor="1" backgroundalpha="0.2509803921568627" mode="0" backgroundcolor="0x0000ff" bordercolor="0x0000ff"/>
+      <hotspot id="Point01" pan="176.78" target="234/3.5/70" description="" title="Khu Nguyệt Quế" tilt="5.71647" url="{node29}" skinid="ht_node"/>
+      <hotspot id="Point02" pan="-3.64939" target="176/4.5/70" description="" title="Khu Nguyệt Quế" tilt="7.04955" url="{node31}" skinid="ht_node"/>
+      <hotspot id="Point03" pan="-89.2019" target="267.5/4/70" description="" title="CAU_01" tilt="3.09396" url="{node38}" skinid="ht_node"/>
+      <hotspot id="Point04" pan="88.1166" target="280.5/4/70" description="" title="Khu Ốc Đảo" tilt="6.76725" url="{node45}" skinid="ht_node"/>
+    </hotspots>
+    <media/>
+    <transition zoomfov="20" enabled="0" softedge="0" zoomoutpause="1" zoomspeed="2" zoomin="0" zoomout="0" blendcolor="0x000000" type="crossdissolve" blendtime="1"/>
+    <control invertwheel="0" lockedmouse="0" contextfullscreen="0" simulatemass="1" speedwheel="1" dblclickfullscreen="0" lockedkeyboardzoom="0" sensitivity="8" invertcontrol="1" lockedkeyboard="0" lockedwheel="0" hideabout="0"/>
+  </panorama>
+  <panorama id="node31">
+    <input prev3url="images/D_NQ004_o_preview_3.jpg" tile5url="images/D_NQ004_o_5.jpg" tile3url="images/D_NQ004_o_3.jpg" prev5url="images/D_NQ004_o_preview_5.jpg" tile2url="images/D_NQ004_o_2.jpg" prev1url="images/D_NQ004_o_preview_1.jpg" tile4url="images/D_NQ004_o_4.jpg" tile0url="images/D_NQ004_o_0.jpg" prev0url="images/D_NQ004_o_preview_0.jpg" prev4url="images/D_NQ004_o_preview_4.jpg" tilescale="1.006845" tile1url="images/D_NQ004_o_1.jpg" tilesize="1461" prev2url="images/D_NQ004_o_preview_2.jpg">
+      <preview color="0x808080"/>
+    </input>
+    <view fovmode="0" pannorth="0">
+      <start pan="0" fov="70" tilt="0"/>
+      <min pan="0" fov="5" tilt="-90"/>
+      <max pan="360" fov="120" tilt="90"/>
+    </view>
+    <userdata author="" source="" info="" tags="" latitude="" description="" datetime="2016:01:21 21:39:18" copyright="" comment="" title="Khu Nguyệt Quế" longitude=""/>
+    <hotspots height="20" wordwrap="1" width="180">
+      <label height="20" borderalpha="1" wordwrap="1" enabled="1" backgroundalpha="1" textalpha="1" borderradius="1" width="180" textcolor="0x000000" backgroundcolor="0xffffff" background="1" bordercolor="0x000000" border="1"/>
+      <polystyle borderalpha="1" handcursor="1" backgroundalpha="0.2509803921568627" mode="0" backgroundcolor="0x0000ff" bordercolor="0x0000ff"/>
+      <hotspot id="Point01" pan="-3.94466" target="175.5/3/70" description="" title="Khu Nguyệt Quế" tilt="5.75854" url="{node30}" skinid="ht_node"/>
+      <hotspot id="Point02" pan="176.768" target="174.5/5.5/70" description="" title="Khu Nguyệt Quế" tilt="5.00953" url="{node27}" skinid="ht_node"/>
+    </hotspots>
+    <media/>
+    <transition zoomfov="20" enabled="0" softedge="0" zoomoutpause="1" zoomspeed="2" zoomin="0" zoomout="0" blendcolor="0x000000" type="crossdissolve" blendtime="1"/>
+    <control invertwheel="0" lockedmouse="0" contextfullscreen="0" simulatemass="1" speedwheel="1" dblclickfullscreen="0" lockedkeyboardzoom="0" sensitivity="8" invertcontrol="1" lockedkeyboard="0" lockedwheel="0" hideabout="0"/>
+  </panorama>
+  <panorama id="node27">
+    <input prev3url="images/D_NQBEP_o_preview_3.jpg" tile5url="images/D_NQBEP_o_5.jpg" tile3url="images/D_NQBEP_o_3.jpg" prev5url="images/D_NQBEP_o_preview_5.jpg" tile2url="images/D_NQBEP_o_2.jpg" prev1url="images/D_NQBEP_o_preview_1.jpg" tile4url="images/D_NQBEP_o_4.jpg" tile0url="images/D_NQBEP_o_0.jpg" prev0url="images/D_NQBEP_o_preview_0.jpg" prev4url="images/D_NQBEP_o_preview_4.jpg" tilescale="1.006845" tile1url="images/D_NQBEP_o_1.jpg" tilesize="1461" prev2url="images/D_NQBEP_o_preview_2.jpg">
+      <preview color="0x808080"/>
+    </input>
+    <view fovmode="0" pannorth="0">
+      <start pan="0" fov="70" tilt="0"/>
+      <min pan="0" fov="5" tilt="-90"/>
+      <max pan="360" fov="120" tilt="90"/>
+    </view>
+    <userdata author="" source="" info="" tags="" latitude="" description="" datetime="2016:01:25 17:11:42" copyright="" comment="" title="Khu Bếp" longitude=""/>
+    <hotspots height="20" wordwrap="1" width="180">
+      <label height="20" borderalpha="1" wordwrap="1" enabled="1" backgroundalpha="1" textalpha="1" borderradius="1" width="180" textcolor="0x000000" backgroundcolor="0xffffff" background="1" bordercolor="0x000000" border="1"/>
+      <polystyle borderalpha="1" handcursor="1" backgroundalpha="0.2509803921568627" mode="0" backgroundcolor="0x0000ff" bordercolor="0x0000ff"/>
+      <hotspot id="Point01" pan="-4.61803" target="357.5/0/70" description="" title="Khu Nguyệt Quế" tilt="3.58958" url="{node31}" skinid="ht_node"/>
+      <hotspot id="Point02" pan="78.5024" target="183.5/1/70" description="" title="Khu Dừa Nước" tilt="4.73879" url="{node36}" skinid="ht_node"/>
+      <hotspot id="Point03" pan="-102.027" target="353.5/2.5/70" description="" title="Khu Đa Đa" tilt="3.85833" url="{node40}" skinid="ht_node"/>
+    </hotspots>
+    <media/>
+    <transition zoomfov="20" enabled="0" softedge="0" zoomoutpause="1" zoomspeed="2" zoomin="0" zoomout="0" blendcolor="0x000000" type="crossdissolve" blendtime="1"/>
+    <control invertwheel="0" lockedmouse="0" contextfullscreen="0" simulatemass="1" speedwheel="1" dblclickfullscreen="0" lockedkeyboardzoom="0" sensitivity="8" invertcontrol="1" lockedkeyboard="0" lockedwheel="0" hideabout="0"/>
+  </panorama>
+  <panorama id="node33">
+    <input prev3url="images/CV_01_o_preview_3.jpg" tile5url="images/CV_01_o_5.jpg" tile3url="images/CV_01_o_3.jpg" prev5url="images/CV_01_o_preview_5.jpg" tile2url="images/CV_01_o_2.jpg" prev1url="images/CV_01_o_preview_1.jpg" tile4url="images/CV_01_o_4.jpg" tile0url="images/CV_01_o_0.jpg" prev0url="images/CV_01_o_preview_0.jpg" prev4url="images/CV_01_o_preview_4.jpg" tilescale="1.006845" tile1url="images/CV_01_o_1.jpg" tilesize="1461" prev2url="images/CV_01_o_preview_2.jpg">
+      <preview color="0x808080"/>
+    </input>
+    <view fovmode="0" pannorth="0">
+      <start pan="0" fov="70" tilt="0"/>
+      <min pan="-180" fov="5" tilt="-90"/>
+      <max pan="180" fov="120" tilt="90"/>
+    </view>
+    <userdata author="" source="" info="" tags="" latitude="" description="" datetime="2016:01:25 09:03:40" copyright="" comment="" title="Khu Chuông Vàng" longitude=""/>
+    <hotspots height="20" wordwrap="1" width="180">
+      <label height="20" borderalpha="1" wordwrap="1" enabled="1" backgroundalpha="1" textalpha="1" borderradius="1" width="180" textcolor="0x000000" backgroundcolor="0xffffff" background="1" bordercolor="0x000000" border="1"/>
+      <polystyle borderalpha="1" handcursor="1" backgroundalpha="0.2509803921568627" mode="0" backgroundcolor="0x0000ff" bordercolor="0x0000ff"/>
+      <hotspot id="Point01" pan="2.08506" target="267.5/3/70" description="" title="Khu Chuông Vàng" tilt="2.32005" url="{node34}" skinid="ht_node"/>
+      <hotspot id="Point02" pan="-177.734" target="91/0/70" description="" title="Khu Cau Bụi" tilt="7.43508" url="{node22}" skinid="ht_node"/>
+    </hotspots>
+    <media/>
+    <transition zoomfov="20" enabled="0" softedge="0" zoomoutpause="1" zoomspeed="2" zoomin="0" zoomout="0" blendcolor="0x000000" type="crossdissolve" blendtime="1"/>
+    <control invertwheel="0" lockedmouse="0" contextfullscreen="0" simulatemass="1" speedwheel="1" dblclickfullscreen="0" lockedkeyboardzoom="0" sensitivity="8" invertcontrol="1" lockedkeyboard="0" lockedwheel="0" hideabout="0"/>
+  </panorama>
+  <panorama id="node34">
+    <input prev3url="images/CV_02_o_preview_3.jpg" tile5url="images/CV_02_o_5.jpg" tile3url="images/CV_02_o_3.jpg" prev5url="images/CV_02_o_preview_5.jpg" tile2url="images/CV_02_o_2.jpg" prev1url="images/CV_02_o_preview_1.jpg" tile4url="images/CV_02_o_4.jpg" tile0url="images/CV_02_o_0.jpg" prev0url="images/CV_02_o_preview_0.jpg" prev4url="images/CV_02_o_preview_4.jpg" tilescale="1.006845" tile1url="images/CV_02_o_1.jpg" tilesize="1461" prev2url="images/CV_02_o_preview_2.jpg">
+      <preview color="0x808080"/>
+    </input>
+    <view fovmode="0" pannorth="0">
+      <start pan="0" fov="70" tilt="0"/>
+      <min pan="0" fov="5" tilt="-90"/>
+      <max pan="360" fov="120" tilt="90"/>
+    </view>
+    <userdata author="" source="" info="" tags="" latitude="" description="" datetime="2016:01:25 16:29:47" copyright="" comment="" title="Khu Chuông Vàng" longitude=""/>
+    <hotspots height="20" wordwrap="1" width="180">
+      <label height="20" borderalpha="1" wordwrap="1" enabled="1" backgroundalpha="1" textalpha="1" borderradius="1" width="180" textcolor="0x000000" backgroundcolor="0xffffff" background="1" bordercolor="0x000000" border="1"/>
+      <polystyle borderalpha="1" handcursor="1" backgroundalpha="0.2509803921568627" mode="0" backgroundcolor="0x0000ff" bordercolor="0x0000ff"/>
+      <hotspot id="Point01" pan="-93.4359" target="197.5/-0.5/70" description="" title="Khu Chuông Vàng" tilt="2.65966" url="{node32}" skinid="ht_node"/>
+      <hotspot id="Point02" pan="87.5854" target="-178.5/0.5/70" description="" title="Khu Chuông Vàng" tilt="5.83998" url="{node33}" skinid="ht_node"/>
+      <hotspot id="Point03" pan="-0.764934" target="283.5/0/70" description="" title="CAU_02" tilt="2.20865" url="{node37}" skinid="ht_node"/>
+    </hotspots>
+    <media/>
+    <transition zoomfov="20" enabled="0" softedge="0" zoomoutpause="1" zoomspeed="2" zoomin="0" zoomout="0" blendcolor="0x000000" type="crossdissolve" blendtime="1"/>
+    <control invertwheel="0" lockedmouse="0" contextfullscreen="0" simulatemass="1" speedwheel="1" dblclickfullscreen="0" lockedkeyboardzoom="0" sensitivity="8" invertcontrol="1" lockedkeyboard="0" lockedwheel="0" hideabout="0"/>
+  </panorama>
+  <panorama id="node32">
+    <input prev3url="images/CV_03_o_preview_3.jpg" tile5url="images/CV_03_o_5.jpg" tile3url="images/CV_03_o_3.jpg" prev5url="images/CV_03_o_preview_5.jpg" tile2url="images/CV_03_o_2.jpg" prev1url="images/CV_03_o_preview_1.jpg" tile4url="images/CV_03_o_4.jpg" tile0url="images/CV_03_o_0.jpg" prev0url="images/CV_03_o_preview_0.jpg" prev4url="images/CV_03_o_preview_4.jpg" tilescale="1.006845" tile1url="images/CV_03_o_1.jpg" tilesize="1461" prev2url="images/CV_03_o_preview_2.jpg">
+      <preview color="0x808080"/>
+    </input>
+    <view fovmode="0" pannorth="0">
+      <start pan="0" fov="70" tilt="0"/>
+      <min pan="0" fov="5" tilt="-90"/>
+      <max pan="360" fov="120" tilt="90"/>
+    </view>
+    <userdata author="" source="" info="" tags="" latitude="" description="" datetime="2016:01:25 16:04:49" copyright="" comment="" title="Khu Chuông Vàng" longitude=""/>
+    <hotspots height="20" wordwrap="1" width="180">
+      <label height="20" borderalpha="1" wordwrap="1" enabled="1" backgroundalpha="1" textalpha="1" borderradius="1" width="180" textcolor="0x000000" backgroundcolor="0xffffff" background="1" bordercolor="0x000000" border="1"/>
+      <polystyle borderalpha="1" handcursor="1" backgroundalpha="0.2509803921568627" mode="0" backgroundcolor="0x0000ff" bordercolor="0x0000ff"/>
+      <hotspot id="Point01" pan="-116.577" target="291.5/3/70" description="" title="Khu Dừa Nước" tilt="2.12541" url="{node35}" skinid="ht_node"/>
+      <hotspot id="Point02" pan="16.9243" target="87.5/5.5/70" description="" title="Khu Chuông Vàng" tilt="4.76023" url="{node34}" skinid="ht_node"/>
+    </hotspots>
+    <media/>
+    <transition zoomfov="20" enabled="0" softedge="0" zoomoutpause="1" zoomspeed="2" zoomin="0" zoomout="0" blendcolor="0x000000" type="crossdissolve" blendtime="1"/>
+    <control invertwheel="0" lockedmouse="0" contextfullscreen="0" simulatemass="1" speedwheel="1" dblclickfullscreen="0" lockedkeyboardzoom="0" sensitivity="8" invertcontrol="1" lockedkeyboard="0" lockedwheel="0" hideabout="0"/>
+  </panorama>
+  <panorama id="node35">
+    <input prev3url="images/DN_02_o_preview_3.jpg" tile5url="images/DN_02_o_5.jpg" tile3url="images/DN_02_o_3.jpg" prev5url="images/DN_02_o_preview_5.jpg" tile2url="images/DN_02_o_2.jpg" prev1url="images/DN_02_o_preview_1.jpg" tile4url="images/DN_02_o_4.jpg" tile0url="images/DN_02_o_0.jpg" prev0url="images/DN_02_o_preview_0.jpg" prev4url="images/DN_02_o_preview_4.jpg" tilescale="1.006845" tile1url="images/DN_02_o_1.jpg" tilesize="1461" prev2url="images/DN_02_o_preview_2.jpg">
+      <preview color="0x808080"/>
+    </input>
+    <view fovmode="0" pannorth="0">
+      <start pan="0" fov="70" tilt="0"/>
+      <min pan="0" fov="5" tilt="-90"/>
+      <max pan="360" fov="120" tilt="90"/>
+    </view>
+    <userdata author="" source="" info="" tags="" latitude="" description="" datetime="2016:01:23 16:29:48" copyright="" comment="" title="Khu Dừa Nước" longitude=""/>
+    <hotspots height="20" wordwrap="1" width="180">
+      <label height="20" borderalpha="1" wordwrap="1" enabled="1" backgroundalpha="1" textalpha="1" borderradius="1" width="180" textcolor="0x000000" backgroundcolor="0xffffff" background="1" bordercolor="0x000000" border="1"/>
+      <polystyle borderalpha="1" handcursor="1" backgroundalpha="0.2509803921568627" mode="0" backgroundcolor="0x0000ff" bordercolor="0x0000ff"/>
+      <hotspot id="Point01" pan="-14.7791" target="0.5/1.5/70" description="" title="Khu Dừa Nước" tilt="6.57847" url="{node36}" skinid="ht_node"/>
+      <hotspot id="Point02" pan="146.812" target="67.5/-0.5/70" description="" title="Khu Chuông Vàng" tilt="4.53881" url="{node32}" skinid="ht_node"/>
+    </hotspots>
+    <media/>
+    <transition zoomfov="20" enabled="0" softedge="0" zoomoutpause="1" zoomspeed="2" zoomin="0" zoomout="0" blendcolor="0x000000" type="crossdissolve" blendtime="1"/>
+    <control invertwheel="0" lockedmouse="0" contextfullscreen="0" simulatemass="1" speedwheel="1" dblclickfullscreen="0" lockedkeyboardzoom="0" sensitivity="8" invertcontrol="1" lockedkeyboard="0" lockedwheel="0" hideabout="0"/>
+  </panorama>
+  <panorama id="node36">
+    <input prev3url="images/DN_01_o_preview_3.jpg" tile5url="images/DN_01_o_5.jpg" tile3url="images/DN_01_o_3.jpg" prev5url="images/DN_01_o_preview_5.jpg" tile2url="images/DN_01_o_2.jpg" prev1url="images/DN_01_o_preview_1.jpg" tile4url="images/DN_01_o_4.jpg" tile0url="images/DN_01_o_0.jpg" prev0url="images/DN_01_o_preview_0.jpg" prev4url="images/DN_01_o_preview_4.jpg" tilescale="1.006845" tile1url="images/DN_01_o_1.jpg" tilesize="1461" prev2url="images/DN_01_o_preview_2.jpg">
+      <preview color="0x808080"/>
+    </input>
+    <view fovmode="0" pannorth="0">
+      <start pan="0" fov="70" tilt="0"/>
+      <min pan="0" fov="5" tilt="-90"/>
+      <max pan="360" fov="120" tilt="90"/>
+    </view>
+    <userdata author="" source="" info="" tags="" latitude="" description="" datetime="2016:01:23 17:05:43" copyright="" comment="" title="Khu Dừa Nước" longitude=""/>
+    <hotspots height="20" wordwrap="1" width="180">
+      <label height="20" borderalpha="1" wordwrap="1" enabled="1" backgroundalpha="1" textalpha="1" borderradius="1" width="180" textcolor="0x000000" backgroundcolor="0xffffff" background="1" bordercolor="0x000000" border="1"/>
+      <polystyle borderalpha="1" handcursor="1" backgroundalpha="0.2509803921568627" mode="0" backgroundcolor="0x0000ff" bordercolor="0x0000ff"/>
+      <hotspot id="Point01" pan="-5.19" target="263/1.5/70" description="" title="Khu Bếp" tilt="6.05036" url="{node27}" skinid="ht_node"/>
+      <hotspot id="Point02" pan="176.868" target="163.5/1.5/70" description="" title="Khu Dừa Nước" tilt="4.83665" url="{node35}" skinid="ht_node"/>
+    </hotspots>
+    <media/>
+    <transition zoomfov="20" enabled="0" softedge="0" zoomoutpause="1" zoomspeed="2" zoomin="0" zoomout="0" blendcolor="0x000000" type="crossdissolve" blendtime="1"/>
+    <control invertwheel="0" lockedmouse="0" contextfullscreen="0" simulatemass="1" speedwheel="1" dblclickfullscreen="0" lockedkeyboardzoom="0" sensitivity="8" invertcontrol="1" lockedkeyboard="0" lockedwheel="0" hideabout="0"/>
+  </panorama>
+  <panorama id="node38">
+    <input prev3url="images/CAU_01_o_preview_3.jpg" tile5url="images/CAU_01_o_5.jpg" tile3url="images/CAU_01_o_3.jpg" prev5url="images/CAU_01_o_preview_5.jpg" tile2url="images/CAU_01_o_2.jpg" prev1url="images/CAU_01_o_preview_1.jpg" tile4url="images/CAU_01_o_4.jpg" tile0url="images/CAU_01_o_0.jpg" prev0url="images/CAU_01_o_preview_0.jpg" prev4url="images/CAU_01_o_preview_4.jpg" tilescale="1.006845" tile1url="images/CAU_01_o_1.jpg" tilesize="1461" prev2url="images/CAU_01_o_preview_2.jpg">
+      <preview color="0x808080"/>
+    </input>
+    <view fovmode="0" pannorth="0">
+      <start pan="250.5" fov="70" tilt="6.5"/>
+      <min pan="0" fov="5" tilt="-90"/>
+      <max pan="360" fov="120" tilt="90"/>
+    </view>
+    <userdata author="" source="" info="" tags="" latitude="" description="" datetime="2016:01:25 14:46:18" copyright="" comment="" title="Cầu Câu cá" longitude=""/>
+    <hotspots height="20" wordwrap="1" width="180">
+      <label height="20" borderalpha="1" wordwrap="1" enabled="1" backgroundalpha="1" textalpha="1" borderradius="1" width="180" textcolor="0x000000" backgroundcolor="0xffffff" background="1" bordercolor="0x000000" border="1"/>
+      <polystyle borderalpha="1" handcursor="1" backgroundalpha="0.2509803921568627" mode="0" backgroundcolor="0x0000ff" bordercolor="0x0000ff"/>
+      <hotspot id="Point01" pan="104.059" target="91/-5/70" description="" title="Khu Nguyệt Quế" tilt="7.25998" url="{node30}" skinid="ht_node"/>
+      <hotspot id="Point02" pan="-83.2927" target="98.5/-2/70" description="" title="CAU_02" tilt="3.94863" url="{node37}" skinid="ht_node"/>
+    </hotspots>
+    <media/>
+    <transition zoomfov="20" enabled="0" softedge="0" zoomoutpause="1" zoomspeed="2" zoomin="0" zoomout="0" blendcolor="0x000000" type="crossdissolve" blendtime="1"/>
+    <control invertwheel="0" lockedmouse="0" contextfullscreen="0" simulatemass="1" speedwheel="1" dblclickfullscreen="0" lockedkeyboardzoom="0" sensitivity="8" invertcontrol="1" lockedkeyboard="0" lockedwheel="0" hideabout="0"/>
+  </panorama>
+  <panorama id="node37">
+    <input prev3url="images/CAU_02_o_preview_3.jpg" tile5url="images/CAU_02_o_5.jpg" tile3url="images/CAU_02_o_3.jpg" prev5url="images/CAU_02_o_preview_5.jpg" tile2url="images/CAU_02_o_2.jpg" prev1url="images/CAU_02_o_preview_1.jpg" tile4url="images/CAU_02_o_4.jpg" tile0url="images/CAU_02_o_0.jpg" prev0url="images/CAU_02_o_preview_0.jpg" prev4url="images/CAU_02_o_preview_4.jpg" tilescale="1.006845" tile1url="images/CAU_02_o_1.jpg" tilesize="1461" prev2url="images/CAU_02_o_preview_2.jpg">
+      <preview color="0x808080"/>
+    </input>
+    <view fovmode="0" pannorth="0">
+      <start pan="280" fov="70" tilt="1.5"/>
+      <min pan="0" fov="5" tilt="-90"/>
+      <max pan="360" fov="120" tilt="90"/>
+    </view>
+    <userdata author="" source="" info="" tags="" latitude="" description="" datetime="2016:01:18 10:37:35" copyright="" comment="" title="Cầu Câu cá" longitude=""/>
+    <hotspots height="20" wordwrap="1" width="180">
+      <label height="20" borderalpha="1" wordwrap="1" enabled="1" backgroundalpha="1" textalpha="1" borderradius="1" width="180" textcolor="0x000000" backgroundcolor="0xffffff" background="1" bordercolor="0x000000" border="1"/>
+      <polystyle borderalpha="1" handcursor="1" backgroundalpha="0.2509803921568627" mode="0" backgroundcolor="0x0000ff" bordercolor="0x0000ff"/>
+      <hotspot id="Point01" pan="-83.0166" target="106/-2.5/70" description="" title="CAU_01" tilt="3.0373" url="{node38}" skinid="ht_node"/>
+      <hotspot id="Point02" pan="96.8908" target="177/-2/70" description="" title="Khu Chuông Vàng" tilt="4.43092" url="{node34}" skinid="ht_node"/>
+    </hotspots>
+    <media/>
+    <transition zoomfov="20" enabled="0" softedge="0" zoomoutpause="1" zoomspeed="2" zoomin="0" zoomout="0" blendcolor="0x000000" type="crossdissolve" blendtime="1"/>
+    <control invertwheel="0" lockedmouse="0" contextfullscreen="0" simulatemass="1" speedwheel="1" dblclickfullscreen="0" lockedkeyboardzoom="0" sensitivity="8" invertcontrol="1" lockedkeyboard="0" lockedwheel="0" hideabout="0"/>
+  </panorama>
+  <panorama id="node40">
+    <input prev3url="images/DD_01_o_preview_3.jpg" tile5url="images/DD_01_o_5.jpg" tile3url="images/DD_01_o_3.jpg" prev5url="images/DD_01_o_preview_5.jpg" tile2url="images/DD_01_o_2.jpg" prev1url="images/DD_01_o_preview_1.jpg" tile4url="images/DD_01_o_4.jpg" tile0url="images/DD_01_o_0.jpg" prev0url="images/DD_01_o_preview_0.jpg" prev4url="images/DD_01_o_preview_4.jpg" tilescale="1.006845" tile1url="images/DD_01_o_1.jpg" tilesize="1461" prev2url="images/DD_01_o_preview_2.jpg">
+      <preview color="0x808080"/>
+    </input>
+    <view fovmode="0" pannorth="0">
+      <start pan="0" fov="70" tilt="0"/>
+      <min pan="0" fov="5" tilt="-90"/>
+      <max pan="360" fov="120" tilt="90"/>
+    </view>
+    <userdata author="" source="" info="" tags="" latitude="" description="" datetime="2016:01:25 16:49:14" copyright="" comment="" title="Khu Đa Đa" longitude=""/>
+    <hotspots height="20" wordwrap="1" width="180">
+      <label height="20" borderalpha="1" wordwrap="1" enabled="1" backgroundalpha="1" textalpha="1" borderradius="1" width="180" textcolor="0x000000" backgroundcolor="0xffffff" background="1" bordercolor="0x000000" border="1"/>
+      <polystyle borderalpha="1" handcursor="1" backgroundalpha="0.2509803921568627" mode="0" backgroundcolor="0x0000ff" bordercolor="0x0000ff"/>
+      <hotspot id="Point01" pan="-72.1912" target="236/0.5/70" description="" title="Khu Đa Đa" tilt="4.10809" url="{node42}" skinid="ht_node"/>
+      <hotspot id="Point02" pan="8.76679" target="199.5/-5.5/70" description="" title="Khu Bằng Lăng" tilt="3.84817" url="{node39}" skinid="ht_node"/>
+      <hotspot id="Point03" pan="154.445" target="64.5/-0.5/70" description="" title="Khu Bếp" tilt="2.76817" url="{node27}" skinid="ht_node"/>
+      <hotspot id="Point04" pan="84.692" target="58.5/-3.5/70" description="" title="Khu Ốc Đảo" tilt="2.73005" url="{node49}" skinid="ht_node"/>
+    </hotspots>
+    <media/>
+    <transition zoomfov="20" enabled="0" softedge="0" zoomoutpause="1" zoomspeed="2" zoomin="0" zoomout="0" blendcolor="0x000000" type="crossdissolve" blendtime="1"/>
+    <control invertwheel="0" lockedmouse="0" contextfullscreen="0" simulatemass="1" speedwheel="1" dblclickfullscreen="0" lockedkeyboardzoom="0" sensitivity="8" invertcontrol="1" lockedkeyboard="0" lockedwheel="0" hideabout="0"/>
+  </panorama>
+  <panorama id="node42">
+    <input prev3url="images/DD_03_o_preview_3.jpg" tile5url="images/DD_03_o_5.jpg" tile3url="images/DD_03_o_3.jpg" prev5url="images/DD_03_o_preview_5.jpg" tile2url="images/DD_03_o_2.jpg" prev1url="images/DD_03_o_preview_1.jpg" tile4url="images/DD_03_o_4.jpg" tile0url="images/DD_03_o_0.jpg" prev0url="images/DD_03_o_preview_0.jpg" prev4url="images/DD_03_o_preview_4.jpg" tilescale="1.006845" tile1url="images/DD_03_o_1.jpg" tilesize="1461" prev2url="images/DD_03_o_preview_2.jpg">
+      <preview color="0x808080"/>
+    </input>
+    <view fovmode="0" pannorth="0">
+      <start pan="54" fov="70" tilt="1.5"/>
+      <min pan="0" fov="5" tilt="-90"/>
+      <max pan="360" fov="120" tilt="90"/>
+    </view>
+    <userdata author="" source="" info="" tags="" latitude="" description="" datetime="2016:01:23 13:32:13" copyright="" comment="" title="Khu Đa Đa" longitude=""/>
+    <hotspots height="20" wordwrap="1" width="180">
+      <label height="20" borderalpha="1" wordwrap="1" enabled="1" backgroundalpha="1" textalpha="1" borderradius="1" width="180" textcolor="0x000000" backgroundcolor="0xffffff" background="1" bordercolor="0x000000" border="1"/>
+      <polystyle borderalpha="1" handcursor="1" backgroundalpha="0.2509803921568627" mode="0" backgroundcolor="0x0000ff" bordercolor="0x0000ff"/>
+      <hotspot id="Point01" pan="-134.187" target="284.5/8/70" description="" title="Khu Đa Đa" tilt="3.01198" url="{node41}" skinid="ht_node"/>
+      <hotspot id="Point02" pan="61.2605" target="84.5/-5/70" description="" title="Khu Đa Đa" tilt="6.37823" url="{node40}" skinid="ht_node"/>
+      <hotspot id="Point03" pan="-43.239" target="182.5/3/70" description="" title="Khu Đa Đa" tilt="2.86661" url="{node44}" skinid="ht_node"/>
+    </hotspots>
+    <media/>
+    <transition zoomfov="20" enabled="0" softedge="0" zoomoutpause="1" zoomspeed="2" zoomin="0" zoomout="0" blendcolor="0x000000" type="crossdissolve" blendtime="1"/>
+    <control invertwheel="0" lockedmouse="0" contextfullscreen="0" simulatemass="1" speedwheel="1" dblclickfullscreen="0" lockedkeyboardzoom="0" sensitivity="8" invertcontrol="1" lockedkeyboard="0" lockedwheel="0" hideabout="0"/>
+  </panorama>
+  <panorama id="node41">
+    <input prev3url="images/DD_02_o_preview_3.jpg" tile5url="images/DD_02_o_5.jpg" tile3url="images/DD_02_o_3.jpg" prev5url="images/DD_02_o_preview_5.jpg" tile2url="images/DD_02_o_2.jpg" prev1url="images/DD_02_o_preview_1.jpg" tile4url="images/DD_02_o_4.jpg" tile0url="images/DD_02_o_0.jpg" prev0url="images/DD_02_o_preview_0.jpg" prev4url="images/DD_02_o_preview_4.jpg" tilescale="1.006845" tile1url="images/DD_02_o_1.jpg" tilesize="1461" prev2url="images/DD_02_o_preview_2.jpg">
+      <preview color="0x808080"/>
+    </input>
+    <view fovmode="0" pannorth="0">
+      <start pan="278" fov="70" tilt="5.5"/>
+      <min pan="0" fov="5" tilt="-90"/>
+      <max pan="360" fov="120" tilt="90"/>
+    </view>
+    <userdata author="" source="" info="" tags="" latitude="" description="" datetime="2016:01:23 15:30:31" copyright="" comment="" title="Khu Đa Đa" longitude=""/>
+    <hotspots height="20" wordwrap="1" width="180">
+      <label height="20" borderalpha="1" wordwrap="1" enabled="1" backgroundalpha="1" textalpha="1" borderradius="1" width="180" textcolor="0x000000" backgroundcolor="0xffffff" background="1" bordercolor="0x000000" border="1"/>
+      <polystyle borderalpha="1" handcursor="1" backgroundalpha="0.2509803921568627" mode="0" backgroundcolor="0x0000ff" bordercolor="0x0000ff"/>
+      <hotspot id="Point01" pan="-12.3008" target="210.5/2.5/70" description="" title="Khu Đa Đa" tilt="6.09477" url="{node43}" skinid="ht_node"/>
+      <hotspot id="Point02" pan="81.1533" target="47.5/2/70" description="" title="Khu Đa Đa" tilt="2.9482" url="{node42}" skinid="ht_node"/>
+    </hotspots>
+    <media/>
+    <transition zoomfov="20" enabled="0" softedge="0" zoomoutpause="1" zoomspeed="2" zoomin="0" zoomout="0" blendcolor="0x000000" type="crossdissolve" blendtime="1"/>
+    <control invertwheel="0" lockedmouse="0" contextfullscreen="0" simulatemass="1" speedwheel="1" dblclickfullscreen="0" lockedkeyboardzoom="0" sensitivity="8" invertcontrol="1" lockedkeyboard="0" lockedwheel="0" hideabout="0"/>
+  </panorama>
+  <panorama id="node43">
+    <input prev3url="images/DD_04_o_preview_3.jpg" tile5url="images/DD_04_o_5.jpg" tile3url="images/DD_04_o_3.jpg" prev5url="images/DD_04_o_preview_5.jpg" tile2url="images/DD_04_o_2.jpg" prev1url="images/DD_04_o_preview_1.jpg" tile4url="images/DD_04_o_4.jpg" tile0url="images/DD_04_o_0.jpg" prev0url="images/DD_04_o_preview_0.jpg" prev4url="images/DD_04_o_preview_4.jpg" tilescale="1.006845" tile1url="images/DD_04_o_1.jpg" tilesize="1461" prev2url="images/DD_04_o_preview_2.jpg">
+      <preview color="0x808080"/>
+    </input>
+    <view fovmode="0" pannorth="0">
+      <start pan="15.5" fov="70" tilt="4"/>
+      <min pan="0" fov="5" tilt="-90"/>
+      <max pan="360" fov="120" tilt="90"/>
+    </view>
+    <userdata author="" source="" info="" tags="" latitude="" description="" datetime="2016:01:23 15:42:19" copyright="" comment="" title="Khu Đa Đa" longitude=""/>
+    <hotspots height="20" wordwrap="1" width="180">
+      <label height="20" borderalpha="1" wordwrap="1" enabled="1" backgroundalpha="1" textalpha="1" borderradius="1" width="180" textcolor="0x000000" backgroundcolor="0xffffff" background="1" bordercolor="0x000000" border="1"/>
+      <polystyle borderalpha="1" handcursor="1" backgroundalpha="0.2509803921568627" mode="0" backgroundcolor="0x0000ff" bordercolor="0x0000ff"/>
+      <hotspot id="Point01" pan="-57.007" target="272/5/70" description="" title="Khu Đa Đa" tilt="4.21628" url="{node44}" skinid="ht_node"/>
+      <hotspot id="Point02" pan="23.8702" target="165.5/4/70" description="" title="Khu Đa Đa" tilt="3.57747" url="{node41}" skinid="ht_node"/>
+    </hotspots>
+    <media/>
+    <transition zoomfov="20" enabled="0" softedge="0" zoomoutpause="1" zoomspeed="2" zoomin="0" zoomout="0" blendcolor="0x000000" type="crossdissolve" blendtime="1"/>
+    <control invertwheel="0" lockedmouse="0" contextfullscreen="0" simulatemass="1" speedwheel="1" dblclickfullscreen="0" lockedkeyboardzoom="0" sensitivity="8" invertcontrol="1" lockedkeyboard="0" lockedwheel="0" hideabout="0"/>
+  </panorama>
+  <panorama id="node44">
+    <input prev3url="images/DD_05_o_preview_3.jpg" tile5url="images/DD_05_o_5.jpg" tile3url="images/DD_05_o_3.jpg" prev5url="images/DD_05_o_preview_5.jpg" tile2url="images/DD_05_o_2.jpg" prev1url="images/DD_05_o_preview_1.jpg" tile4url="images/DD_05_o_4.jpg" tile0url="images/DD_05_o_0.jpg" prev0url="images/DD_05_o_preview_0.jpg" prev4url="images/DD_05_o_preview_4.jpg" tilescale="1.006845" tile1url="images/DD_05_o_1.jpg" tilesize="1461" prev2url="images/DD_05_o_preview_2.jpg">
+      <preview color="0x808080"/>
+    </input>
+    <view fovmode="0" pannorth="0">
+      <start pan="98" fov="70" tilt="-0.5"/>
+      <min pan="0" fov="5" tilt="-90"/>
+      <max pan="360" fov="120" tilt="90"/>
+    </view>
+    <userdata author="" source="" info="" tags="" latitude="" description="" datetime="2016:01:23 15:59:15" copyright="" comment="" title="Khu Đa Đa" longitude=""/>
+    <hotspots height="20" wordwrap="1" width="180">
+      <label height="20" borderalpha="1" wordwrap="1" enabled="1" backgroundalpha="1" textalpha="1" borderradius="1" width="180" textcolor="0x000000" backgroundcolor="0xffffff" background="1" bordercolor="0x000000" border="1"/>
+      <polystyle borderalpha="1" handcursor="1" backgroundalpha="0.2509803921568627" mode="0" backgroundcolor="0x0000ff" bordercolor="0x0000ff"/>
+      <hotspot id="Point01" pan="-88.9397" target="269/1/70" description="" title="Khu Bằng Lăng" tilt="5.84913" url="{node39}" skinid="ht_node"/>
+      <hotspot id="Point02" pan="90.913" target="120/-2/70" description="" title="Khu Đa Đa" tilt="3.90092" url="{node43}" skinid="ht_node"/>
+      <hotspot id="Point03" pan="2.26825" target="134.5/-5/70" description="" title="Khu Đa Đa" tilt="3.4366" url="{node42}" skinid="ht_node"/>
+    </hotspots>
+    <media/>
+    <transition zoomfov="20" enabled="0" softedge="0" zoomoutpause="1" zoomspeed="2" zoomin="0" zoomout="0" blendcolor="0x000000" type="crossdissolve" blendtime="1"/>
+    <control invertwheel="0" lockedmouse="0" contextfullscreen="0" simulatemass="1" speedwheel="1" dblclickfullscreen="0" lockedkeyboardzoom="0" sensitivity="8" invertcontrol="1" lockedkeyboard="0" lockedwheel="0" hideabout="0"/>
+  </panorama>
+  <panorama id="node39">
+    <input prev3url="images/DD_06_o_preview_3.jpg" tile5url="images/DD_06_o_5.jpg" tile3url="images/DD_06_o_3.jpg" prev5url="images/DD_06_o_preview_5.jpg" tile2url="images/DD_06_o_2.jpg" prev1url="images/DD_06_o_preview_1.jpg" tile4url="images/DD_06_o_4.jpg" tile0url="images/DD_06_o_0.jpg" prev0url="images/DD_06_o_preview_0.jpg" prev4url="images/DD_06_o_preview_4.jpg" tilescale="1.006845" tile1url="images/DD_06_o_1.jpg" tilesize="1461" prev2url="images/DD_06_o_preview_2.jpg">
+      <preview color="0x808080"/>
+    </input>
+    <view fovmode="0" pannorth="0">
+      <start pan="81" fov="70" tilt="9"/>
+      <min pan="0" fov="5" tilt="-90"/>
+      <max pan="360" fov="120" tilt="90"/>
+    </view>
+    <userdata author="" source="" info="" tags="" latitude="" description="" datetime="2016:01:24 19:34:29" copyright="" comment="" title="Khu Bằng Lăng" longitude=""/>
+    <hotspots height="20" wordwrap="1" width="180">
+      <label height="20" borderalpha="1" wordwrap="1" enabled="1" backgroundalpha="1" textalpha="1" borderradius="1" width="180" textcolor="0x000000" backgroundcolor="0xffffff" background="1" bordercolor="0x000000" border="1"/>
+      <polystyle borderalpha="1" handcursor="1" backgroundalpha="0.2509803921568627" mode="0" backgroundcolor="0x0000ff" bordercolor="0x0000ff"/>
+      <hotspot id="Point01" pan="78.4371" target="96.5/4.5/70" description="" title="Khu Đa Đa" tilt="7.51621" url="{node44}" skinid="ht_node"/>
+      <hotspot id="Point02" pan="-2.15192" target="198/-4.5/70" description="" title="Khu Đa Đa" tilt="5.41428" url="{node40}" skinid="ht_node"/>
+      <hotspot id="Point03" pan="-81.6273" target="316/0.5/70" description="" title="Khu Ốc Đảo" tilt="1.67238" url="{node48}" skinid="ht_node"/>
+    </hotspots>
+    <media/>
+    <transition zoomfov="20" enabled="0" softedge="0" zoomoutpause="1" zoomspeed="2" zoomin="0" zoomout="0" blendcolor="0x000000" type="crossdissolve" blendtime="1"/>
+    <control invertwheel="0" lockedmouse="0" contextfullscreen="0" simulatemass="1" speedwheel="1" dblclickfullscreen="0" lockedkeyboardzoom="0" sensitivity="8" invertcontrol="1" lockedkeyboard="0" lockedwheel="0" hideabout="0"/>
+  </panorama>
+  <panorama id="node50">
+    <input prev3url="images/OD_DONGTRAU_o_preview_3.jpg" tile5url="images/OD_DONGTRAU_o_5.jpg" tile3url="images/OD_DONGTRAU_o_3.jpg" prev5url="images/OD_DONGTRAU_o_preview_5.jpg" tile2url="images/OD_DONGTRAU_o_2.jpg" prev1url="images/OD_DONGTRAU_o_preview_1.jpg" tile4url="images/OD_DONGTRAU_o_4.jpg" tile0url="images/OD_DONGTRAU_o_0.jpg" prev0url="images/OD_DONGTRAU_o_preview_0.jpg" prev4url="images/OD_DONGTRAU_o_preview_4.jpg" tilescale="1.006845" tile1url="images/OD_DONGTRAU_o_1.jpg" tilesize="1461" prev2url="images/OD_DONGTRAU_o_preview_2.jpg">
+      <preview color="0x808080"/>
+    </input>
+    <view fovmode="0" pannorth="0">
+      <start pan="133.5" fov="70" tilt="7"/>
+      <min pan="0" fov="5" tilt="-90"/>
+      <max pan="360" fov="120" tilt="90"/>
+    </view>
+    <userdata author="" source="" info="" tags="" latitude="" description="" datetime="2016:01:17 14:43:03" copyright="" comment="" title="Khu Ốc Đảo" longitude=""/>
+    <hotspots height="20" wordwrap="1" width="180">
+      <label height="20" borderalpha="1" wordwrap="1" enabled="1" backgroundalpha="1" textalpha="1" borderradius="1" width="180" textcolor="0x000000" backgroundcolor="0xffffff" background="1" bordercolor="0x000000" border="1"/>
+      <polystyle borderalpha="1" handcursor="1" backgroundalpha="0.2509803921568627" mode="0" backgroundcolor="0x0000ff" bordercolor="0x0000ff"/>
+      <hotspot id="Point01" pan="132.584" target="103.5/1.5/70" description="" title="Khu Ốc Đảo" tilt="6.88318" url="{node45}" skinid="ht_node"/>
+      <hotspot id="Point02" pan="-139.846" target="244/5/70" description="" title="Khu Ốc Đảo" tilt="5.72392" url="{node49}" skinid="ht_node"/>
+      <hotspot id="Point03" pan="25.9598" target="7.5/5/70" description="" title="Khu Ốc Đảo" tilt="5.74394" url="{node46}" skinid="ht_node"/>
+      <hotspot id="Point04" pan="-27.3114" target="217.5/-3/70" description="" title="Khu Ốc Đảo" tilt="4.31932" url="{node47}" skinid="ht_node"/>
+      <hotspot id="Point05" pan="-69.9607" target="162.5/-6/70" description="" title="Khu Ốc Đảo" tilt="5.75672" url="{node48}" skinid="ht_node"/>
+    </hotspots>
+    <media/>
+    <transition zoomfov="20" enabled="0" softedge="0" zoomoutpause="1" zoomspeed="2" zoomin="0" zoomout="0" blendcolor="0x000000" type="crossdissolve" blendtime="1"/>
+    <control invertwheel="0" lockedmouse="0" contextfullscreen="0" simulatemass="1" speedwheel="1" dblclickfullscreen="0" lockedkeyboardzoom="0" sensitivity="8" invertcontrol="1" lockedkeyboard="0" lockedwheel="0" hideabout="0"/>
+  </panorama>
+  <panorama id="node46">
+    <input prev3url="images/OD_01_o_preview_3.jpg" tile5url="images/OD_01_o_5.jpg" tile3url="images/OD_01_o_3.jpg" prev5url="images/OD_01_o_preview_5.jpg" tile2url="images/OD_01_o_2.jpg" prev1url="images/OD_01_o_preview_1.jpg" tile4url="images/OD_01_o_4.jpg" tile0url="images/OD_01_o_0.jpg" prev0url="images/OD_01_o_preview_0.jpg" prev4url="images/OD_01_o_preview_4.jpg" tilescale="1.006845" tile1url="images/OD_01_o_1.jpg" tilesize="1461" prev2url="images/OD_01_o_preview_2.jpg">
+      <preview color="0x808080"/>
+    </input>
+    <view fovmode="0" pannorth="0">
+      <start pan="0" fov="70" tilt="0"/>
+      <min pan="0" fov="5" tilt="-90"/>
+      <max pan="360" fov="120" tilt="90"/>
+    </view>
+    <userdata author="" source="" info="" tags="" latitude="" description="" datetime="2016:01:25 21:55:48" copyright="" comment="" title="Khu Ốc Đảo" longitude=""/>
+    <hotspots height="20" wordwrap="1" width="180">
+      <label height="20" borderalpha="1" wordwrap="1" enabled="1" backgroundalpha="1" textalpha="1" borderradius="1" width="180" textcolor="0x000000" backgroundcolor="0xffffff" background="1" bordercolor="0x000000" border="1"/>
+      <polystyle borderalpha="1" handcursor="1" backgroundalpha="0.2509803921568627" mode="0" backgroundcolor="0x0000ff" bordercolor="0x0000ff"/>
+      <hotspot id="Point01" pan="1.95419" target="172/-7/70" description="" title="Đường chính" tilt="7.0991" url="{node18}" skinid="ht_node"/>
+      <hotspot id="Point02" pan="179.406" target="226/-2.5/70" description="" title="Khu Ốc Đảo" tilt="5.92806" url="{node50}" skinid="ht_node"/>
+      <hotspot id="Point03" pan="97.5258" target="326/0/70" description="" title="Khu Nguyệt Quế" tilt="6.10449" url="{node29}" skinid="ht_node"/>
+      <hotspot id="Point04" pan="-129.46" target="159/3/70" description="" title="Khu Ốc Đảo" tilt="5.07937" url="{node47}" skinid="ht_node"/>
+    </hotspots>
+    <media/>
+    <transition zoomfov="20" enabled="0" softedge="0" zoomoutpause="1" zoomspeed="2" zoomin="0" zoomout="0" blendcolor="0x000000" type="crossdissolve" blendtime="1"/>
+    <control invertwheel="0" lockedmouse="0" contextfullscreen="0" simulatemass="1" speedwheel="1" dblclickfullscreen="0" lockedkeyboardzoom="0" sensitivity="8" invertcontrol="1" lockedkeyboard="0" lockedwheel="0" hideabout="0"/>
+  </panorama>
+  <panorama id="node47">
+    <input prev3url="images/OD_02_o_preview_3.jpg" tile5url="images/OD_02_o_5.jpg" tile3url="images/OD_02_o_3.jpg" prev5url="images/OD_02_o_preview_5.jpg" tile2url="images/OD_02_o_2.jpg" prev1url="images/OD_02_o_preview_1.jpg" tile4url="images/OD_02_o_4.jpg" tile0url="images/OD_02_o_0.jpg" prev0url="images/OD_02_o_preview_0.jpg" prev4url="images/OD_02_o_preview_4.jpg" tilescale="1.006845" tile1url="images/OD_02_o_1.jpg" tilesize="1461" prev2url="images/OD_02_o_preview_2.jpg">
+      <preview color="0x808080"/>
+    </input>
+    <view fovmode="0" pannorth="0">
+      <start pan="0" fov="70" tilt="0"/>
+      <min pan="0" fov="5" tilt="-90"/>
+      <max pan="360" fov="120" tilt="90"/>
+    </view>
+    <userdata author="" source="" info="" tags="" latitude="" description="" datetime="2016:01:25 23:46:06" copyright="" comment="" title="Khu Ốc Đảo" longitude=""/>
+    <hotspots height="20" wordwrap="1" width="180">
+      <label height="20" borderalpha="1" wordwrap="1" enabled="1" backgroundalpha="1" textalpha="1" borderradius="1" width="180" textcolor="0x000000" backgroundcolor="0xffffff" background="1" bordercolor="0x000000" border="1"/>
+      <polystyle borderalpha="1" handcursor="1" backgroundalpha="0.2509803921568627" mode="0" backgroundcolor="0x0000ff" bordercolor="0x0000ff"/>
+      <hotspot id="Point01" pan="27.7188" target="190/0/70" description="" title="Khu Ốc Đảo" tilt="6.67636" url="{node50}" skinid="ht_node"/>
+      <hotspot id="Point02" pan="91.2871" target="89/-1.5/70" description="" title="Khu Ốc Đảo" tilt="4.42422" url="{node48}" skinid="ht_node"/>
+      <hotspot id="Point03" pan="-39.6138" target="64.5/0.5/70" description="" title="Khu Ốc Đảo" tilt="2.25771" url="{node46}" skinid="ht_node"/>
+    </hotspots>
+    <media/>
+    <transition zoomfov="20" enabled="0" softedge="0" zoomoutpause="1" zoomspeed="2" zoomin="0" zoomout="0" blendcolor="0x000000" type="crossdissolve" blendtime="1"/>
+    <control invertwheel="0" lockedmouse="0" contextfullscreen="0" simulatemass="1" speedwheel="1" dblclickfullscreen="0" lockedkeyboardzoom="0" sensitivity="8" invertcontrol="1" lockedkeyboard="0" lockedwheel="0" hideabout="0"/>
+  </panorama>
+  <panorama id="node48">
+    <input prev3url="images/OD_03_o_preview_3.jpg" tile5url="images/OD_03_o_5.jpg" tile3url="images/OD_03_o_3.jpg" prev5url="images/OD_03_o_preview_5.jpg" tile2url="images/OD_03_o_2.jpg" prev1url="images/OD_03_o_preview_1.jpg" tile4url="images/OD_03_o_4.jpg" tile0url="images/OD_03_o_0.jpg" prev0url="images/OD_03_o_preview_0.jpg" prev4url="images/OD_03_o_preview_4.jpg" tilescale="1.006845" tile1url="images/OD_03_o_1.jpg" tilesize="1461" prev2url="images/OD_03_o_preview_2.jpg">
+      <preview color="0x808080"/>
+    </input>
+    <view fovmode="0" pannorth="0">
+      <start pan="0" fov="70" tilt="0"/>
+      <min pan="0" fov="5" tilt="-90"/>
+      <max pan="360" fov="120" tilt="90"/>
+    </view>
+    <userdata author="" source="" info="" tags="" latitude="" description="" datetime="2016:01:25 21:14:23" copyright="" comment="" title="Khu Ốc Đảo" longitude=""/>
+    <hotspots height="20" wordwrap="1" width="180">
+      <label height="20" borderalpha="1" wordwrap="1" enabled="1" backgroundalpha="1" textalpha="1" borderradius="1" width="180" textcolor="0x000000" backgroundcolor="0xffffff" background="1" bordercolor="0x000000" border="1"/>
+      <polystyle borderalpha="1" handcursor="1" backgroundalpha="0.2509803921568627" mode="0" backgroundcolor="0x0000ff" bordercolor="0x0000ff"/>
+      <hotspot id="Point01" pan="-91.1032" target="273.5/0/70" description="" title="Khu Ốc Đảo" tilt="1.43518" url="{node47}" skinid="ht_node"/>
+      <hotspot id="Point02" pan="-24.7316" target="92.5/-4.5/70" description="" title="Khu Ốc Đảo" tilt="5.19022" url="{node50}" skinid="ht_node"/>
+      <hotspot id="Point03" pan="111.404" target="109/-13/70" description="" title="Khu Bằng Lăng" tilt="5.24821" url="{node39}" skinid="ht_node"/>
+    </hotspots>
+    <media/>
+    <transition zoomfov="20" enabled="0" softedge="0" zoomoutpause="1" zoomspeed="2" zoomin="0" zoomout="0" blendcolor="0x000000" type="crossdissolve" blendtime="1"/>
+    <control invertwheel="0" lockedmouse="0" contextfullscreen="0" simulatemass="1" speedwheel="1" dblclickfullscreen="0" lockedkeyboardzoom="0" sensitivity="8" invertcontrol="1" lockedkeyboard="0" lockedwheel="0" hideabout="0"/>
+  </panorama>
+  <panorama id="node49">
+    <input prev3url="images/OD_04_o_preview_3.jpg" tile5url="images/OD_04_o_5.jpg" tile3url="images/OD_04_o_3.jpg" prev5url="images/OD_04_o_preview_5.jpg" tile2url="images/OD_04_o_2.jpg" prev1url="images/OD_04_o_preview_1.jpg" tile4url="images/OD_04_o_4.jpg" tile0url="images/OD_04_o_0.jpg" prev0url="images/OD_04_o_preview_0.jpg" prev4url="images/OD_04_o_preview_4.jpg" tilescale="1.006845" tile1url="images/OD_04_o_1.jpg" tilesize="1461" prev2url="images/OD_04_o_preview_2.jpg">
+      <preview color="0x808080"/>
+    </input>
+    <view fovmode="0" pannorth="0">
+      <start pan="53.5" fov="70" tilt="-5.5"/>
+      <min pan="0" fov="5" tilt="-90"/>
+      <max pan="360" fov="120" tilt="90"/>
+    </view>
+    <userdata author="" source="" info="" tags="" latitude="" description="" datetime="2016:01:25 19:28:34" copyright="" comment="" title="Khu Ốc Đảo" longitude=""/>
+    <hotspots height="20" wordwrap="1" width="180">
+      <label height="20" borderalpha="1" wordwrap="1" enabled="1" backgroundalpha="1" textalpha="1" borderradius="1" width="180" textcolor="0x000000" backgroundcolor="0xffffff" background="1" bordercolor="0x000000" border="1"/>
+      <polystyle borderalpha="1" handcursor="1" backgroundalpha="0.2509803921568627" mode="0" backgroundcolor="0x0000ff" bordercolor="0x0000ff"/>
+      <hotspot id="Point01" pan="42.0937" target="32/4/70" description="" title="Khu Ốc Đảo" tilt="6.27019" url="{node50}" skinid="ht_node"/>
+      <hotspot id="Point02" pan="-128.226" target="271.5/4.5/70" description="" title="Khu Đa Đa" tilt="5.63391" url="{node40}" skinid="ht_node"/>
+    </hotspots>
+    <media/>
+    <transition zoomfov="20" enabled="0" softedge="0" zoomoutpause="1" zoomspeed="2" zoomin="0" zoomout="0" blendcolor="0x000000" type="crossdissolve" blendtime="1"/>
+    <control invertwheel="0" lockedmouse="0" contextfullscreen="0" simulatemass="1" speedwheel="1" dblclickfullscreen="0" lockedkeyboardzoom="0" sensitivity="8" invertcontrol="1" lockedkeyboard="0" lockedwheel="0" hideabout="0"/>
+  </panorama>
+  <panorama id="node45">
+    <input prev3url="images/OD_05_o_preview_3.jpg" tile5url="images/OD_05_o_5.jpg" tile3url="images/OD_05_o_3.jpg" prev5url="images/OD_05_o_preview_5.jpg" tile2url="images/OD_05_o_2.jpg" prev1url="images/OD_05_o_preview_1.jpg" tile4url="images/OD_05_o_4.jpg" tile0url="images/OD_05_o_0.jpg" prev0url="images/OD_05_o_preview_0.jpg" prev4url="images/OD_05_o_preview_4.jpg" tilescale="1.006845" tile1url="images/OD_05_o_1.jpg" tilesize="1461" prev2url="images/OD_05_o_preview_2.jpg">
+      <preview color="0x808080"/>
+    </input>
+    <view fovmode="0" pannorth="0">
+      <start pan="282" fov="70" tilt="4"/>
+      <min pan="0" fov="5" tilt="-90"/>
+      <max pan="360" fov="120" tilt="90"/>
+    </view>
+    <userdata author="" source="" info="" tags="" latitude="" description="" datetime="2016:01:25 17:55:12" copyright="" comment="" title="Khu Ốc Đảo" longitude=""/>
+    <hotspots height="20" wordwrap="1" width="180">
+      <label height="20" borderalpha="1" wordwrap="1" enabled="1" backgroundalpha="1" textalpha="1" borderradius="1" width="180" textcolor="0x000000" backgroundcolor="0xffffff" background="1" bordercolor="0x000000" border="1"/>
+      <polystyle borderalpha="1" handcursor="1" backgroundalpha="0.2509803921568627" mode="0" backgroundcolor="0x0000ff" bordercolor="0x0000ff"/>
+      <hotspot id="Point01" pan="-79.2442" target="313.5/1/70" description="" title="Khu Ốc Đảo" tilt="4.6799" url="{node50}" skinid="ht_node"/>
+      <hotspot id="Point02" pan="102.191" target="269/4.5/70" description="" title="Khu Nguyệt Quế" tilt="5.39739" url="{node30}" skinid="ht_node"/>
+    </hotspots>
+    <media/>
+    <transition zoomfov="20" enabled="0" softedge="0" zoomoutpause="1" zoomspeed="2" zoomin="0" zoomout="0" blendcolor="0x000000" type="crossdissolve" blendtime="1"/>
+    <control invertwheel="0" lockedmouse="0" contextfullscreen="0" simulatemass="1" speedwheel="1" dblclickfullscreen="0" lockedkeyboardzoom="0" sensitivity="8" invertcontrol="1" lockedkeyboard="0" lockedwheel="0" hideabout="0"/>
+  </panorama>
+  <panorama id="node51">
+    <input prev3url="images/C_Duongxanh_o_preview_3.jpg" tile5url="images/C_Duongxanh_o_5.jpg" tile3url="images/C_Duongxanh_o_3.jpg" prev5url="images/C_Duongxanh_o_preview_5.jpg" tile2url="images/C_Duongxanh_o_2.jpg" prev1url="images/C_Duongxanh_o_preview_1.jpg" tile4url="images/C_Duongxanh_o_4.jpg" tile0url="images/C_Duongxanh_o_0.jpg" prev0url="images/C_Duongxanh_o_preview_0.jpg" prev4url="images/C_Duongxanh_o_preview_4.jpg" tilescale="1.006845" tile1url="images/C_Duongxanh_o_1.jpg" tilesize="1461" prev2url="images/C_Duongxanh_o_preview_2.jpg">
+      <preview color="0x808080"/>
+    </input>
+    <view fovmode="0" pannorth="0">
+      <start pan="0" fov="70" tilt="0"/>
+      <min pan="0" fov="5" tilt="-90"/>
+      <max pan="360" fov="120" tilt="90"/>
+    </view>
+    <userdata author="" source="" info="" tags="" latitude="" description="" datetime="2016:01:25 08:03:43" copyright="" comment="" title="Khu Đường Xanh" longitude=""/>
+    <hotspots height="20" wordwrap="1" width="180">
+      <label height="20" borderalpha="1" wordwrap="1" enabled="1" backgroundalpha="1" textalpha="1" borderradius="1" width="180" textcolor="0x000000" backgroundcolor="0xffffff" background="1" bordercolor="0x000000" border="1"/>
+      <polystyle borderalpha="1" handcursor="1" backgroundalpha="0.2509803921568627" mode="0" backgroundcolor="0x0000ff" bordercolor="0x0000ff"/>
+      <hotspot id="Point01" pan="133.912" target="2/4/70" description="" title="Phòng đặt tiệc" tilt="5.86173" url="{node11}" skinid="ht_node"/>
+      <hotspot id="Point02" pan="104.316" target="282.5/-2/70" description="" title="Đường chính" tilt="4.60868" url="{node2}" skinid="ht_node"/>
+      <hotspot id="Point03" pan="48.2023" target="175.5/-0.5/70" description="" title="Đường chính" tilt="6.576" url="{node4}" skinid="ht_node"/>
+    </hotspots>
+    <media/>
+    <transition zoomfov="20" enabled="0" softedge="0" zoomoutpause="1" zoomspeed="2" zoomin="0" zoomout="0" blendcolor="0x000000" type="crossdissolve" blendtime="1"/>
+    <control invertwheel="0" lockedmouse="0" contextfullscreen="0" simulatemass="1" speedwheel="1" dblclickfullscreen="0" lockedkeyboardzoom="0" sensitivity="8" invertcontrol="1" lockedkeyboard="0" lockedwheel="0" hideabout="0"/>
+  </panorama>
+  <panorama id="node53">
+    <input prev3url="images/GD_01_o_preview_3.jpg" tile5url="images/GD_01_o_5.jpg" tile3url="images/GD_01_o_3.jpg" prev5url="images/GD_01_o_preview_5.jpg" tile2url="images/GD_01_o_2.jpg" prev1url="images/GD_01_o_preview_1.jpg" tile4url="images/GD_01_o_4.jpg" tile0url="images/GD_01_o_0.jpg" prev0url="images/GD_01_o_preview_0.jpg" prev4url="images/GD_01_o_preview_4.jpg" tilescale="1.006845" tile1url="images/GD_01_o_1.jpg" tilesize="1461" prev2url="images/GD_01_o_preview_2.jpg">
+      <preview color="0x808080"/>
+    </input>
+    <view fovmode="0" pannorth="0">
+      <start pan="0" fov="70" tilt="0"/>
+      <min pan="0" fov="5" tilt="-90"/>
+      <max pan="360" fov="120" tilt="90"/>
+    </view>
+    <userdata author="" source="" info="" tags="" latitude="" description="" datetime="2016:01:24 21:50:33" copyright="" comment="" title="Khu Gia Đình" longitude=""/>
+    <hotspots height="20" wordwrap="1" width="180">
+      <label height="20" borderalpha="1" wordwrap="1" enabled="1" backgroundalpha="1" textalpha="1" borderradius="1" width="180" textcolor="0x000000" backgroundcolor="0xffffff" background="1" bordercolor="0x000000" border="1"/>
+      <polystyle borderalpha="1" handcursor="1" backgroundalpha="0.2509803921568627" mode="0" backgroundcolor="0x0000ff" bordercolor="0x0000ff"/>
+      <hotspot id="Point01" pan="36.5734" target="278.5/-4.5/70" description="" title="Khu Gia Đình" tilt="5.26738" url="{node54}" skinid="ht_node"/>
+      <hotspot id="Point02" pan="-142.599" target="271/-7/70" description="" title="Đường chính" tilt="9.21738" url="{node7}" skinid="ht_node"/>
+      <hotspot id="Point03" pan="-111.958" target="47/-2/70" description="" title="Đường chính" tilt="3.97672" url="{node9}" skinid="ht_node"/>
+      <hotspot id="Point04" pan="-83.5492" target="246.5/3/70" description="" title="Khu VIP" tilt="5.26171" url="{node64}" skinid="ht_node"/>
+    </hotspots>
+    <media/>
+    <transition zoomfov="20" enabled="0" softedge="0" zoomoutpause="1" zoomspeed="2" zoomin="0" zoomout="0" blendcolor="0x000000" type="crossdissolve" blendtime="1"/>
+    <control invertwheel="0" lockedmouse="0" contextfullscreen="0" simulatemass="1" speedwheel="1" dblclickfullscreen="0" lockedkeyboardzoom="0" sensitivity="8" invertcontrol="1" lockedkeyboard="0" lockedwheel="0" hideabout="0"/>
+  </panorama>
+  <panorama id="node54">
+    <input prev3url="images/GD_02_o_preview_3.jpg" tile5url="images/GD_02_o_5.jpg" tile3url="images/GD_02_o_3.jpg" prev5url="images/GD_02_o_preview_5.jpg" tile2url="images/GD_02_o_2.jpg" prev1url="images/GD_02_o_preview_1.jpg" tile4url="images/GD_02_o_4.jpg" tile0url="images/GD_02_o_0.jpg" prev0url="images/GD_02_o_preview_0.jpg" prev4url="images/GD_02_o_preview_4.jpg" tilescale="1.006845" tile1url="images/GD_02_o_1.jpg" tilesize="1461" prev2url="images/GD_02_o_preview_2.jpg">
+      <preview color="0x808080"/>
+    </input>
+    <view fovmode="0" pannorth="0">
+      <start pan="332.5" fov="70" tilt="-2.5"/>
+      <min pan="0" fov="5" tilt="-90"/>
+      <max pan="360" fov="120" tilt="90"/>
+    </view>
+    <userdata author="" source="" info="" tags="" latitude="" description="" datetime="2016:01:25 16:56:25" copyright="" comment="" title="Khu Gia Đình" longitude=""/>
+    <hotspots height="20" wordwrap="1" width="180">
+      <label height="20" borderalpha="1" wordwrap="1" enabled="1" backgroundalpha="1" textalpha="1" borderradius="1" width="180" textcolor="0x000000" backgroundcolor="0xffffff" background="1" bordercolor="0x000000" border="1"/>
+      <polystyle borderalpha="1" handcursor="1" backgroundalpha="0.2509803921568627" mode="0" backgroundcolor="0x0000ff" bordercolor="0x0000ff"/>
+      <hotspot id="Point01" pan="8.24785" target="29/-4.5/70" description="" title="Khu Gia Đình" tilt="3.5792" url="{node55}" skinid="ht_node"/>
+      <hotspot id="Point02" pan="-87.7017" target="174.5/-9/70" description="" title="Khu Gia Đình" tilt="2.70827" url="{node52}" skinid="ht_node"/>
+      <hotspot id="Point03" pan="94.7953" target="211.5/1.5/70" description="" title="Khu Gia Đình" tilt="8.09289" url="{node53}" skinid="ht_node"/>
+    </hotspots>
+    <media/>
+    <transition zoomfov="20" enabled="0" softedge="0" zoomoutpause="1" zoomspeed="2" zoomin="0" zoomout="0" blendcolor="0x000000" type="crossdissolve" blendtime="1"/>
+    <control invertwheel="0" lockedmouse="0" contextfullscreen="0" simulatemass="1" speedwheel="1" dblclickfullscreen="0" lockedkeyboardzoom="0" sensitivity="8" invertcontrol="1" lockedkeyboard="0" lockedwheel="0" hideabout="0"/>
+  </panorama>
+  <panorama id="node55">
+    <input prev3url="images/GD_03_o_preview_3.jpg" tile5url="images/GD_03_o_5.jpg" tile3url="images/GD_03_o_3.jpg" prev5url="images/GD_03_o_preview_5.jpg" tile2url="images/GD_03_o_2.jpg" prev1url="images/GD_03_o_preview_1.jpg" tile4url="images/GD_03_o_4.jpg" tile0url="images/GD_03_o_0.jpg" prev0url="images/GD_03_o_preview_0.jpg" prev4url="images/GD_03_o_preview_4.jpg" tilescale="1.006845" tile1url="images/GD_03_o_1.jpg" tilesize="1461" prev2url="images/GD_03_o_preview_2.jpg">
+      <preview color="0x808080"/>
+    </input>
+    <view fovmode="0" pannorth="0">
+      <start pan="292" fov="70" tilt="-1"/>
+      <min pan="0" fov="5" tilt="-90"/>
+      <max pan="360" fov="120" tilt="90"/>
+    </view>
+    <userdata author="" source="" info="" tags="" latitude="" description="" datetime="2016:01:25 16:59:55" copyright="" comment="" title="Khu Gia Đình" longitude=""/>
+    <hotspots height="20" wordwrap="1" width="180">
+      <label height="20" borderalpha="1" wordwrap="1" enabled="1" backgroundalpha="1" textalpha="1" borderradius="1" width="180" textcolor="0x000000" backgroundcolor="0xffffff" background="1" bordercolor="0x000000" border="1"/>
+      <polystyle borderalpha="1" handcursor="1" backgroundalpha="0.2509803921568627" mode="0" backgroundcolor="0x0000ff" bordercolor="0x0000ff"/>
+      <hotspot id="Point01" pan="-160.487" target="186/-4.5/70" description="" title="Khu Gia Đình" tilt="2.57382" url="{node54}" skinid="ht_node"/>
+      <hotspot id="Point02" pan="-106.988" target="138/-12/70" description="" title="Khu Gia Đình" tilt="3.48626" url="{node52}" skinid="ht_node"/>
+      <hotspot id="Point03" pan="-65.7375" target="0/0/70" description="" title="Khu Gia Đình" tilt="4.26437" url="{node57}" skinid="ht_node"/>
+    </hotspots>
+    <media/>
+    <transition zoomfov="20" enabled="0" softedge="0" zoomoutpause="1" zoomspeed="2" zoomin="0" zoomout="0" blendcolor="0x000000" type="crossdissolve" blendtime="1"/>
+    <control invertwheel="0" lockedmouse="0" contextfullscreen="0" simulatemass="1" speedwheel="1" dblclickfullscreen="0" lockedkeyboardzoom="0" sensitivity="8" invertcontrol="1" lockedkeyboard="0" lockedwheel="0" hideabout="0"/>
+  </panorama>
+  <panorama id="node52">
+    <input prev3url="images/GD_04_o_preview_3.jpg" tile5url="images/GD_04_o_5.jpg" tile3url="images/GD_04_o_3.jpg" prev5url="images/GD_04_o_preview_5.jpg" tile2url="images/GD_04_o_2.jpg" prev1url="images/GD_04_o_preview_1.jpg" tile4url="images/GD_04_o_4.jpg" tile0url="images/GD_04_o_0.jpg" prev0url="images/GD_04_o_preview_0.jpg" prev4url="images/GD_04_o_preview_4.jpg" tilescale="1.006845" tile1url="images/GD_04_o_1.jpg" tilesize="1461" prev2url="images/GD_04_o_preview_2.jpg">
+      <preview color="0x808080"/>
+    </input>
+    <view fovmode="0" pannorth="0">
+      <start pan="270" fov="70" tilt="-2"/>
+      <min pan="0" fov="5" tilt="-90"/>
+      <max pan="360" fov="120" tilt="90"/>
+    </view>
+    <userdata author="" source="" info="" tags="" latitude="" description="" datetime="2016:01:25 00:14:19" copyright="" comment="" title="Khu Gia Đình" longitude=""/>
+    <hotspots height="20" wordwrap="1" width="180">
+      <label height="20" borderalpha="1" wordwrap="1" enabled="1" backgroundalpha="1" textalpha="1" borderradius="1" width="180" textcolor="0x000000" backgroundcolor="0xffffff" background="1" bordercolor="0x000000" border="1"/>
+      <polystyle borderalpha="1" handcursor="1" backgroundalpha="0.2509803921568627" mode="0" backgroundcolor="0x0000ff" bordercolor="0x0000ff"/>
+      <hotspot id="Point01" pan="90.9364" target="69.5/-14/70" description="" title="Khu Gia Đình" tilt="3.94929" url="{node56}" skinid="ht_node"/>
+      <hotspot id="Point02" pan="-15.8045" target="93/-6/70" description="" title="Khu Gia Đình" tilt="2.71872" url="{node54}" skinid="ht_node"/>
+      <hotspot id="Point03" pan="-86.5888" target="90/1/70" description="" title="Khu Gia Đình" tilt="5.5117" url="{node57}" skinid="ht_node"/>
+    </hotspots>
+    <media/>
+    <transition zoomfov="20" enabled="0" softedge="0" zoomoutpause="1" zoomspeed="2" zoomin="0" zoomout="0" blendcolor="0x000000" type="crossdissolve" blendtime="1"/>
+    <control invertwheel="0" lockedmouse="0" contextfullscreen="0" simulatemass="1" speedwheel="1" dblclickfullscreen="0" lockedkeyboardzoom="0" sensitivity="8" invertcontrol="1" lockedkeyboard="0" lockedwheel="0" hideabout="0"/>
+  </panorama>
+  <panorama id="node56">
+    <input prev3url="images/Giadinh_VIP_o_preview_3.jpg" tile5url="images/Giadinh_VIP_o_5.jpg" tile3url="images/Giadinh_VIP_o_3.jpg" prev5url="images/Giadinh_VIP_o_preview_5.jpg" tile2url="images/Giadinh_VIP_o_2.jpg" prev1url="images/Giadinh_VIP_o_preview_1.jpg" tile4url="images/Giadinh_VIP_o_4.jpg" tile0url="images/Giadinh_VIP_o_0.jpg" prev0url="images/Giadinh_VIP_o_preview_0.jpg" prev4url="images/Giadinh_VIP_o_preview_4.jpg" tilescale="1.006845" tile1url="images/Giadinh_VIP_o_1.jpg" tilesize="1461" prev2url="images/Giadinh_VIP_o_preview_2.jpg">
+      <preview color="0x808080"/>
+    </input>
+    <view fovmode="0" pannorth="0">
+      <start pan="254" fov="70" tilt="-6"/>
+      <min pan="0" fov="5" tilt="-90"/>
+      <max pan="360" fov="120" tilt="90"/>
+    </view>
+    <userdata author="" source="" info="" tags="" latitude="" description="" datetime="2015:12:16 08:16:07" copyright="" comment="" title="Khu Gia Đình" longitude=""/>
+    <hotspots height="20" wordwrap="1" width="180">
+      <label height="20" borderalpha="1" wordwrap="1" enabled="1" backgroundalpha="1" textalpha="1" borderradius="1" width="180" textcolor="0x000000" backgroundcolor="0xffffff" background="1" bordercolor="0x000000" border="1"/>
+      <polystyle borderalpha="1" handcursor="1" backgroundalpha="0.2509803921568627" mode="0" backgroundcolor="0x0000ff" bordercolor="0x0000ff"/>
+      <hotspot id="Point01" pan="-106.705" target="274/-6.5/70" description="" title="Khu Gia Đình" tilt="4.11111" url="{node52}" skinid="ht_node"/>
+      <hotspot id="Point02" pan="-6.13687" target="0/0/70" description="" title="Khu VIP" tilt="7.38343" url="{node65}" skinid="ht_node"/>
+      <hotspot id="Point03" pan="4.06187" target="255/3/70" description="" title="VIP7" tilt="6.76071" url="{node62}" skinid="ht_node"/>
+      <hotspot id="Point04" pan="-16.8671" target="351.5/-1/70" description="" title="VIP10" tilt="7.73645" url="{node63}" skinid="ht_node"/>
+    </hotspots>
+    <media/>
+    <transition zoomfov="20" enabled="0" softedge="0" zoomoutpause="1" zoomspeed="2" zoomin="0" zoomout="0" blendcolor="0x000000" type="crossdissolve" blendtime="1"/>
+    <control invertwheel="0" lockedmouse="0" contextfullscreen="0" simulatemass="1" speedwheel="1" dblclickfullscreen="0" lockedkeyboardzoom="0" sensitivity="8" invertcontrol="1" lockedkeyboard="0" lockedwheel="0" hideabout="0"/>
+  </panorama>
+  <panorama id="node57">
+    <input prev3url="images/choi 400_sk1_o_preview_3.jpg" tile5url="images/choi 400_sk1_o_5.jpg" tile3url="images/choi 400_sk1_o_3.jpg" prev5url="images/choi 400_sk1_o_preview_5.jpg" tile2url="images/choi 400_sk1_o_2.jpg" prev1url="images/choi 400_sk1_o_preview_1.jpg" tile4url="images/choi 400_sk1_o_4.jpg" tile0url="images/choi 400_sk1_o_0.jpg" prev0url="images/choi 400_sk1_o_preview_0.jpg" prev4url="images/choi 400_sk1_o_preview_4.jpg" tilescale="1.006845" tile1url="images/choi 400_sk1_o_1.jpg" tilesize="1461" prev2url="images/choi 400_sk1_o_preview_2.jpg">
+      <preview color="0x808080"/>
+    </input>
+    <view fovmode="0" pannorth="0">
+      <start pan="0" fov="70" tilt="0"/>
+      <min pan="0" fov="5" tilt="-90"/>
+      <max pan="360" fov="120" tilt="90"/>
+    </view>
+    <userdata author="" source="" info="" tags="" latitude="" description="" datetime="2015:12:02 12:07:32" copyright="" comment="" title="Khu Gia Đình" longitude=""/>
+    <hotspots height="20" wordwrap="1" width="180">
+      <label height="20" borderalpha="1" wordwrap="1" enabled="1" backgroundalpha="1" textalpha="1" borderradius="1" width="180" textcolor="0x000000" backgroundcolor="0xffffff" background="1" bordercolor="0x000000" border="1"/>
+      <polystyle borderalpha="1" handcursor="1" backgroundalpha="0.2509803921568627" mode="0" backgroundcolor="0x0000ff" bordercolor="0x0000ff"/>
+      <hotspot id="Point01" pan="-178.27" target="112/-1.5/70" description="" title="Khu Gia Đình" tilt="2.92788" url="{node55}" skinid="ht_node"/>
+      <hotspot id="Point02" pan="-86.9241" target="93/-7/70" description="" title="Khu Gia Đình" tilt="-0.232989" url="{node52}" skinid="ht_node"/>
+    </hotspots>
+    <media/>
+    <transition zoomfov="20" enabled="0" softedge="0" zoomoutpause="1" zoomspeed="2" zoomin="0" zoomout="0" blendcolor="0x000000" type="crossdissolve" blendtime="1"/>
+    <control invertwheel="0" lockedmouse="0" contextfullscreen="0" simulatemass="1" speedwheel="1" dblclickfullscreen="0" lockedkeyboardzoom="0" sensitivity="8" invertcontrol="1" lockedkeyboard="0" lockedwheel="0" hideabout="0"/>
+  </panorama>
+  <panorama id="node64">
+    <input prev3url="images/VIP_D_o_preview_3.jpg" tile5url="images/VIP_D_o_5.jpg" tile3url="images/VIP_D_o_3.jpg" prev5url="images/VIP_D_o_preview_5.jpg" tile2url="images/VIP_D_o_2.jpg" prev1url="images/VIP_D_o_preview_1.jpg" tile4url="images/VIP_D_o_4.jpg" tile0url="images/VIP_D_o_0.jpg" prev0url="images/VIP_D_o_preview_0.jpg" prev4url="images/VIP_D_o_preview_4.jpg" tilescale="1.006845" tile1url="images/VIP_D_o_1.jpg" tilesize="1461" prev2url="images/VIP_D_o_preview_2.jpg">
+      <preview color="0x808080"/>
+    </input>
+    <view fovmode="0" pannorth="0">
+      <start pan="59.5" fov="70" tilt="4"/>
+      <min pan="0" fov="5" tilt="-90"/>
+      <max pan="360" fov="120" tilt="90"/>
+    </view>
+    <userdata author="" source="" info="" tags="" latitude="" description="" datetime="2015:12:19 18:04:52" copyright="" comment="" title="Khu VIP" longitude=""/>
+    <hotspots height="20" wordwrap="1" width="180">
+      <label height="20" borderalpha="1" wordwrap="1" enabled="1" backgroundalpha="1" textalpha="1" borderradius="1" width="180" textcolor="0x000000" backgroundcolor="0xffffff" background="1" bordercolor="0x000000" border="1"/>
+      <polystyle borderalpha="1" handcursor="1" backgroundalpha="0.2509803921568627" mode="0" backgroundcolor="0x0000ff" bordercolor="0x0000ff"/>
+      <hotspot id="Point01" pan="148.603" target="330/4/70" description="" title="Đường chính" tilt="4.93937" url="{node9}" skinid="ht_node"/>
+      <hotspot id="Point02" pan="-162.626" target="24.5/-1/70" description="" title="Đường chính" tilt="1.76469" url="{node4}" skinid="ht_node"/>
+      <hotspot id="Point03" pan="0.594963" target="179/-4/70" description="" title="Khu VIP" tilt="4.74871" url="{node65}" skinid="ht_node"/>
+      <hotspot id="Point04" pan="77.4331" target="107.5/1.5/70" description="" title="Khu Gia Đình" tilt="4.85031" url="{node53}" skinid="ht_node"/>
+      <hotspot id="Point05" pan="-18.2512" target="321.5/-2.5/70" description="" title="VIP1" tilt="4.53846" url="{node58}" skinid="ht_node"/>
+      <hotspot id="Point06" pan="21.0966" target="125.5/-1.5/70" description="" title="VIP2" tilt="4.71254" url="{node59}" skinid="ht_node"/>
+    </hotspots>
+    <media/>
+    <transition zoomfov="20" enabled="0" softedge="0" zoomoutpause="1" zoomspeed="2" zoomin="0" zoomout="0" blendcolor="0x000000" type="crossdissolve" blendtime="1"/>
+    <control invertwheel="0" lockedmouse="0" contextfullscreen="0" simulatemass="1" speedwheel="1" dblclickfullscreen="0" lockedkeyboardzoom="0" sensitivity="8" invertcontrol="1" lockedkeyboard="0" lockedwheel="0" hideabout="0"/>
+  </panorama>
+  <panorama id="node65">
+    <input prev3url="images/VIP_D1_o_preview_3.jpg" tile5url="images/VIP_D1_o_5.jpg" tile3url="images/VIP_D1_o_3.jpg" prev5url="images/VIP_D1_o_preview_5.jpg" tile2url="images/VIP_D1_o_2.jpg" prev1url="images/VIP_D1_o_preview_1.jpg" tile4url="images/VIP_D1_o_4.jpg" tile0url="images/VIP_D1_o_0.jpg" prev0url="images/VIP_D1_o_preview_0.jpg" prev4url="images/VIP_D1_o_preview_4.jpg" tilescale="1.006845" tile1url="images/VIP_D1_o_1.jpg" tilesize="1461" prev2url="images/VIP_D1_o_preview_2.jpg">
+      <preview color="0x808080"/>
+    </input>
+    <view fovmode="0" pannorth="0">
+      <start pan="0" fov="70" tilt="0"/>
+      <min pan="0" fov="5" tilt="-90"/>
+      <max pan="360" fov="120" tilt="90"/>
+    </view>
+    <userdata author="" source="" info="" tags="" latitude="" description="" datetime="2016:01:03 11:22:18" copyright="" comment="" title="Khu VIP" longitude=""/>
+    <hotspots height="20" wordwrap="1" width="180">
+      <label height="20" borderalpha="1" wordwrap="1" enabled="1" backgroundalpha="1" textalpha="1" borderradius="1" width="180" textcolor="0x000000" backgroundcolor="0xffffff" background="1" bordercolor="0x000000" border="1"/>
+      <polystyle borderalpha="1" handcursor="1" backgroundalpha="0.2509803921568627" mode="0" backgroundcolor="0x0000ff" bordercolor="0x0000ff"/>
+      <hotspot id="Point01" pan="179.69" target="164.5/-6.5/70" description="" title="Khu Gia Đình" tilt="6.74702" url="{node56}" skinid="ht_node"/>
+      <hotspot id="Point02" pan="-0.0849977" target="180/-4/70" description="" title="Khu VIP" tilt="7.27052" url="{node64}" skinid="ht_node"/>
+      <hotspot id="Point03" pan="-130.064" target="274/-5/70" description="" title="VIP4" tilt="9.86064" url="{node60}" skinid="ht_node"/>
+      <hotspot id="Point04" pan="161.931" target="32.5/-7/70" description="" title="VIP5" tilt="6.6826" url="{node61}" skinid="ht_node"/>
+      <hotspot id="Point05" pan="169.56" target="2/-2.5/70" description="" title="VIP7" tilt="6.30592" url="{node62}" skinid="ht_node"/>
+      <hotspot id="Point06" pan="-172.556" target="233/-9.5/70" description="" title="VIP10" tilt="5.77803" url="{node63}" skinid="ht_node"/>
+      <hotspot id="Point07" pan="-25.0323" target="248.5/7/70" description="" title="VIP2" tilt="8.5337" url="{node59}" skinid="ht_node"/>
+      <hotspot id="Point08" pan="77.7963" target="262/-0.5/70" description="" title="VIP1" tilt="13.1447" url="{node58}" skinid="ht_node"/>
+    </hotspots>
+    <media/>
+    <transition zoomfov="20" enabled="0" softedge="0" zoomoutpause="1" zoomspeed="2" zoomin="0" zoomout="0" blendcolor="0x000000" type="crossdissolve" blendtime="1"/>
+    <control invertwheel="0" lockedmouse="0" contextfullscreen="0" simulatemass="1" speedwheel="1" dblclickfullscreen="0" lockedkeyboardzoom="0" sensitivity="8" invertcontrol="1" lockedkeyboard="0" lockedwheel="0" hideabout="0"/>
+  </panorama>
+  <panorama id="node58">
+    <input prev3url="images/VIP_01_o_preview_3.jpg" tile5url="images/VIP_01_o_5.jpg" tile3url="images/VIP_01_o_3.jpg" prev5url="images/VIP_01_o_preview_5.jpg" tile2url="images/VIP_01_o_2.jpg" prev1url="images/VIP_01_o_preview_1.jpg" tile4url="images/VIP_01_o_4.jpg" tile0url="images/VIP_01_o_0.jpg" prev0url="images/VIP_01_o_preview_0.jpg" prev4url="images/VIP_01_o_preview_4.jpg" tilescale="1.006845" tile1url="images/VIP_01_o_1.jpg" tilesize="1461" prev2url="images/VIP_01_o_preview_2.jpg">
+      <preview color="0x808080"/>
+    </input>
+    <view fovmode="0" pannorth="0">
+      <start pan="0" fov="70" tilt="0"/>
+      <min pan="0" fov="5" tilt="-90"/>
+      <max pan="360" fov="120" tilt="90"/>
+    </view>
+    <userdata author="" source="" info="" tags="" latitude="" description="" datetime="2015:11:16 18:03:15" copyright="" comment="" title="VIP1" longitude=""/>
+    <hotspots height="20" wordwrap="1" width="180">
+      <label height="20" borderalpha="1" wordwrap="1" enabled="1" backgroundalpha="1" textalpha="1" borderradius="1" width="180" textcolor="0x000000" backgroundcolor="0xffffff" background="1" bordercolor="0x000000" border="1"/>
+      <polystyle borderalpha="1" handcursor="1" backgroundalpha="0.2509803921568627" mode="0" backgroundcolor="0x0000ff" bordercolor="0x0000ff"/>
+      <hotspot id="Point01" pan="159.953" target="167.5/-3/70" description="" title="Khu VIP" tilt="4.48336" url="{node64}" skinid="ht_node"/>
+      <hotspot id="Point02" pan="58.6055" target="252.5/8/70" description="" title="Khu VIP" tilt="9.31697" url="{node65}" skinid="ht_node"/>
+    </hotspots>
+    <media/>
+    <transition zoomfov="20" enabled="0" softedge="0" zoomoutpause="1" zoomspeed="2" zoomin="0" zoomout="0" blendcolor="0x000000" type="crossdissolve" blendtime="1"/>
+    <control invertwheel="0" lockedmouse="0" contextfullscreen="0" simulatemass="1" speedwheel="1" dblclickfullscreen="0" lockedkeyboardzoom="0" sensitivity="8" invertcontrol="1" lockedkeyboard="0" lockedwheel="0" hideabout="0"/>
+  </panorama>
+  <panorama id="node59">
+    <input prev3url="images/VIP_002_o_preview_3.jpg" tile5url="images/VIP_002_o_5.jpg" tile3url="images/VIP_002_o_3.jpg" prev5url="images/VIP_002_o_preview_5.jpg" tile2url="images/VIP_002_o_2.jpg" prev1url="images/VIP_002_o_preview_1.jpg" tile4url="images/VIP_002_o_4.jpg" tile0url="images/VIP_002_o_0.jpg" prev0url="images/VIP_002_o_preview_0.jpg" prev4url="images/VIP_002_o_preview_4.jpg" tilescale="1.006845" tile1url="images/VIP_002_o_1.jpg" tilesize="1461" prev2url="images/VIP_002_o_preview_2.jpg">
+      <preview color="0x808080"/>
+    </input>
+    <view fovmode="0" pannorth="0">
+      <start pan="0" fov="70" tilt="0"/>
+      <min pan="0" fov="5" tilt="-90"/>
+      <max pan="360" fov="120" tilt="90"/>
+    </view>
+    <userdata author="" source="" info="" tags="" latitude="" description="" datetime="2015:12:20 13:13:49" copyright="" comment="" title="VIP2" longitude=""/>
+    <hotspots height="20" wordwrap="1" width="180">
+      <label height="20" borderalpha="1" wordwrap="1" enabled="1" backgroundalpha="1" textalpha="1" borderradius="1" width="180" textcolor="0x000000" backgroundcolor="0xffffff" background="1" bordercolor="0x000000" border="1"/>
+      <polystyle borderalpha="1" handcursor="1" backgroundalpha="0.2509803921568627" mode="0" backgroundcolor="0x0000ff" bordercolor="0x0000ff"/>
+      <hotspot id="Point01" pan="-67.0354" target="212/-5/70" description="" title="Khu VIP" tilt="5.69497" url="{node64}" skinid="ht_node"/>
+      <hotspot id="Point02" pan="57.3878" target="164.5/-2.5/70" description="" title="Khu VIP" tilt="7.91206" url="{node65}" skinid="ht_node"/>
+    </hotspots>
+    <media/>
+    <transition zoomfov="20" enabled="0" softedge="0" zoomoutpause="1" zoomspeed="2" zoomin="0" zoomout="0" blendcolor="0x000000" type="crossdissolve" blendtime="1"/>
+    <control invertwheel="0" lockedmouse="0" contextfullscreen="0" simulatemass="1" speedwheel="1" dblclickfullscreen="0" lockedkeyboardzoom="0" sensitivity="8" invertcontrol="1" lockedkeyboard="0" lockedwheel="0" hideabout="0"/>
+  </panorama>
+  <panorama id="node60">
+    <input prev3url="images/vip_004_o_preview_3.jpg" tile5url="images/vip_004_o_5.jpg" tile3url="images/vip_004_o_3.jpg" prev5url="images/vip_004_o_preview_5.jpg" tile2url="images/vip_004_o_2.jpg" prev1url="images/vip_004_o_preview_1.jpg" tile4url="images/vip_004_o_4.jpg" tile0url="images/vip_004_o_0.jpg" prev0url="images/vip_004_o_preview_0.jpg" prev4url="images/vip_004_o_preview_4.jpg" tilescale="1.006845" tile1url="images/vip_004_o_1.jpg" tilesize="1461" prev2url="images/vip_004_o_preview_2.jpg">
+      <preview color="0x808080"/>
+    </input>
+    <view fovmode="0" pannorth="0">
+      <start pan="0" fov="70" tilt="0"/>
+      <min pan="0" fov="5" tilt="-90"/>
+      <max pan="360" fov="120" tilt="90"/>
+    </view>
+    <userdata author="" source="" info="" tags="" latitude="" description="" datetime="2015:12:16 16:02:46" copyright="" comment="" title="VIP4" longitude=""/>
+    <hotspots height="20" wordwrap="1" width="180">
+      <label height="20" borderalpha="1" wordwrap="1" enabled="1" backgroundalpha="1" textalpha="1" borderradius="1" width="180" textcolor="0x000000" backgroundcolor="0xffffff" background="1" bordercolor="0x000000" border="1"/>
+      <polystyle borderalpha="1" handcursor="1" backgroundalpha="0.2509803921568627" mode="0" backgroundcolor="0x0000ff" bordercolor="0x0000ff"/>
+      <hotspot id="Point01" pan="125.627" target="70/1/70" description="" title="Khu VIP" tilt="14.2713" url="{node65}" skinid="ht_node"/>
+    </hotspots>
+    <media/>
+    <transition zoomfov="20" enabled="0" softedge="0" zoomoutpause="1" zoomspeed="2" zoomin="0" zoomout="0" blendcolor="0x000000" type="crossdissolve" blendtime="1"/>
+    <control invertwheel="0" lockedmouse="0" contextfullscreen="0" simulatemass="1" speedwheel="1" dblclickfullscreen="0" lockedkeyboardzoom="0" sensitivity="8" invertcontrol="1" lockedkeyboard="0" lockedwheel="0" hideabout="0"/>
+  </panorama>
+  <panorama id="node61">
+    <input prev3url="images/VIP_05_o_preview_3.jpg" tile5url="images/VIP_05_o_5.jpg" tile3url="images/VIP_05_o_3.jpg" prev5url="images/VIP_05_o_preview_5.jpg" tile2url="images/VIP_05_o_2.jpg" prev1url="images/VIP_05_o_preview_1.jpg" tile4url="images/VIP_05_o_4.jpg" tile0url="images/VIP_05_o_0.jpg" prev0url="images/VIP_05_o_preview_0.jpg" prev4url="images/VIP_05_o_preview_4.jpg" tilescale="1.006845" tile1url="images/VIP_05_o_1.jpg" tilesize="1461" prev2url="images/VIP_05_o_preview_2.jpg">
+      <preview color="0x808080"/>
+    </input>
+    <view fovmode="0" pannorth="0">
+      <start pan="0" fov="70" tilt="0"/>
+      <min pan="0" fov="5" tilt="-90"/>
+      <max pan="360" fov="120" tilt="90"/>
+    </view>
+    <userdata author="" source="" info="" tags="" latitude="" description="" datetime="2015:12:13 22:56:56" copyright="" comment="" title="VIP5" longitude=""/>
+    <hotspots height="20" wordwrap="1" width="180">
+      <label height="20" borderalpha="1" wordwrap="1" enabled="1" backgroundalpha="1" textalpha="1" borderradius="1" width="180" textcolor="0x000000" backgroundcolor="0xffffff" background="1" bordercolor="0x000000" border="1"/>
+      <polystyle borderalpha="1" handcursor="1" backgroundalpha="0.2509803921568627" mode="0" backgroundcolor="0x0000ff" bordercolor="0x0000ff"/>
+      <hotspot id="Point01" pan="-167.796" target="344.5/-0.5/70" description="" title="Khu VIP" tilt="10.0397" url="{node65}" skinid="ht_node"/>
+    </hotspots>
+    <media/>
+    <transition zoomfov="20" enabled="0" softedge="0" zoomoutpause="1" zoomspeed="2" zoomin="0" zoomout="0" blendcolor="0x000000" type="crossdissolve" blendtime="1"/>
+    <control invertwheel="0" lockedmouse="0" contextfullscreen="0" simulatemass="1" speedwheel="1" dblclickfullscreen="0" lockedkeyboardzoom="0" sensitivity="8" invertcontrol="1" lockedkeyboard="0" lockedwheel="0" hideabout="0"/>
+  </panorama>
+  <panorama id="node62">
+    <input prev3url="images/VIP_07_o_preview_3.jpg" tile5url="images/VIP_07_o_5.jpg" tile3url="images/VIP_07_o_3.jpg" prev5url="images/VIP_07_o_preview_5.jpg" tile2url="images/VIP_07_o_2.jpg" prev1url="images/VIP_07_o_preview_1.jpg" tile4url="images/VIP_07_o_4.jpg" tile0url="images/VIP_07_o_0.jpg" prev0url="images/VIP_07_o_preview_0.jpg" prev4url="images/VIP_07_o_preview_4.jpg" tilescale="1.006845" tile1url="images/VIP_07_o_1.jpg" tilesize="1461" prev2url="images/VIP_07_o_preview_2.jpg">
+      <preview color="0x808080"/>
+    </input>
+    <view fovmode="0" pannorth="0">
+      <start pan="0" fov="70" tilt="0"/>
+      <min pan="0" fov="5" tilt="-90"/>
+      <max pan="360" fov="120" tilt="90"/>
+    </view>
+    <userdata author="" source="" info="" tags="" latitude="" description="" datetime="2015:11:15 19:52:01" copyright="" comment="" title="VIP7" longitude=""/>
+    <hotspots height="20" wordwrap="1" width="180">
+      <label height="20" borderalpha="1" wordwrap="1" enabled="1" backgroundalpha="1" textalpha="1" borderradius="1" width="180" textcolor="0x000000" backgroundcolor="0xffffff" background="1" bordercolor="0x000000" border="1"/>
+      <polystyle borderalpha="1" handcursor="1" backgroundalpha="0.2509803921568627" mode="0" backgroundcolor="0x0000ff" bordercolor="0x0000ff"/>
+      <hotspot id="Point01" pan="-180" target="334/-0.5/70" description="" title="Khu VIP" tilt="11.4014" url="{node65}" skinid="ht_node"/>
+      <hotspot id="Point02" pan="63.6034" target="183/-0.5/70" description="" title="Khu Gia Đình" tilt="12.8338" url="{node56}" skinid="ht_node"/>
+    </hotspots>
+    <media/>
+    <transition zoomfov="20" enabled="0" softedge="0" zoomoutpause="1" zoomspeed="2" zoomin="0" zoomout="0" blendcolor="0x000000" type="crossdissolve" blendtime="1"/>
+    <control invertwheel="0" lockedmouse="0" contextfullscreen="0" simulatemass="1" speedwheel="1" dblclickfullscreen="0" lockedkeyboardzoom="0" sensitivity="8" invertcontrol="1" lockedkeyboard="0" lockedwheel="0" hideabout="0"/>
+  </panorama>
+  <panorama id="node63">
+    <input prev3url="images/VIP_10_o_preview_3.jpg" tile5url="images/VIP_10_o_5.jpg" tile3url="images/VIP_10_o_3.jpg" prev5url="images/VIP_10_o_preview_5.jpg" tile2url="images/VIP_10_o_2.jpg" prev1url="images/VIP_10_o_preview_1.jpg" tile4url="images/VIP_10_o_4.jpg" tile0url="images/VIP_10_o_0.jpg" prev0url="images/VIP_10_o_preview_0.jpg" prev4url="images/VIP_10_o_preview_4.jpg" tilescale="1.006845" tile1url="images/VIP_10_o_1.jpg" tilesize="1461" prev2url="images/VIP_10_o_preview_2.jpg">
+      <preview color="0x808080"/>
+    </input>
+    <view fovmode="0" pannorth="0">
+      <start pan="0" fov="70" tilt="0"/>
+      <min pan="0" fov="5" tilt="-90"/>
+      <max pan="360" fov="120" tilt="90"/>
+    </view>
+    <userdata author="" source="" info="" tags="" latitude="" description="" datetime="2015:12:13 23:12:43" copyright="" comment="" title="VIP10" longitude=""/>
+    <hotspots height="20" wordwrap="1" width="180">
+      <label height="20" borderalpha="1" wordwrap="1" enabled="1" backgroundalpha="1" textalpha="1" borderradius="1" width="180" textcolor="0x000000" backgroundcolor="0xffffff" background="1" bordercolor="0x000000" border="1"/>
+      <polystyle borderalpha="1" handcursor="1" backgroundalpha="0.2509803921568627" mode="0" backgroundcolor="0x0000ff" bordercolor="0x0000ff"/>
+      <hotspot id="Point01" pan="61.5636" target="42.5/0.5/70" description="" title="Khu VIP" tilt="13.0786" url="{node65}" skinid="ht_node"/>
+      <hotspot id="Point02" pan="-177.769" target="151.5/-2.5/70" description="" title="Khu Gia Đình" tilt="8.59191" url="{node56}" skinid="ht_node"/>
+    </hotspots>
+    <media/>
+    <transition zoomfov="20" enabled="0" softedge="0" zoomoutpause="1" zoomspeed="2" zoomin="0" zoomout="0" blendcolor="0x000000" type="crossdissolve" blendtime="1"/>
+    <control invertwheel="0" lockedmouse="0" contextfullscreen="0" simulatemass="1" speedwheel="1" dblclickfullscreen="0" lockedkeyboardzoom="0" sensitivity="8" invertcontrol="1" lockedkeyboard="0" lockedwheel="0" hideabout="0"/>
+  </panorama>
+</tour>
