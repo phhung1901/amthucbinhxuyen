@@ -1,0 +1,462 @@
+@charset "utf-8";
+/* CSS Document */
+
+body
+{
+    margin:0 auto;
+    background:#254128;
+    background-image:url(./images/bg2.gif) ;
+    background-repeat:repeat-x;
+
+}
+
+#clear
+{
+    clear:both;
+    height:20px;
+}
+#wrapper
+{
+    width:960px;
+    margin:0 auto;
+}
+#header
+{
+
+    height:150px;
+
+
+}
+
+#logo
+{
+    /*background-image:url(./images/logo.png);*/
+    background-repeat:no-repeat;
+    width:376px;
+    height:88px;
+    margin-left:20px;
+    margin-top:40px;
+    float:left;
+
+}
+#main_menu
+{
+    float:left;
+    margin-left:120px;
+    width:440px;
+    height:120px;
+    background-repeat:no-repeat;
+}
+
+#main_menu ul
+{
+    list-style:none;
+    margin:0;
+    padding:0;
+    height:150px;
+}
+#main_menu li, #main_menu a
+{
+    height:122px;
+    display:block;
+    /*
+    display:inline-block;
+    color:#c2d832;
+    border-left:1px solid #c9c9c9;
+    font-size:13px;
+    font-weight:bold;
+    padding-top:104px;
+    padding-left:4px;
+    width:100px;
+
+    font-family:Arial, Helvetica, sans-serif;*/
+}
+
+#main_menu li
+{
+    float:left;
+    list-style:none;
+    display:inline;
+    text-indent:-9999em;
+}
+
+
+#main_content_top_flag
+{
+    float:right;
+    width:70px;
+    height:auto;
+    margin-right:6px;
+}
+
+#main_content_top_flag_vietnam
+{
+    float:left;
+    padding:4px;
+}
+
+#main_content_top_flag_english
+{
+    float:left;
+    padding:4px;
+}
+
+
+#nav_tintuc
+{
+    width:110px;
+}
+
+#nav_nhahang
+{
+    width:110px;
+}
+
+#nav_thucdon
+{
+    width:110px;
+}
+#nav_lienhe
+{
+    width:110px;
+}
+
+#nav_tintuc a:hover
+{
+    background-repeat:no-repeat;
+    background-position:0px -122px;
+}
+
+#nav_nhahang a:hover
+{
+    background-repeat:no-repeat;
+    background-position:-110px -122px;
+}
+
+
+#nav_thucdon a:hover
+{
+    background-repeat:no-repeat;
+    background-position:-220px -122px;
+}
+#nav_lienhe a:hover
+{
+    background-repeat:no-repeat;
+    background-position:-330px -122px;
+}
+
+
+
+
+#footer
+{
+    height:80px;
+    color:#fff;
+    font-size:11px;
+    font-family:Arial, Helvetica, sans-serif;
+    clear:both;
+    margin-top:20px;
+
+}
+
+#footer_left
+{
+    color:#ececec;
+    font-size:10px;
+    font-family:Arial, Helvetica, sans-serif;
+    font-weight:bold;
+    padding-left:50px;
+    padding-top:10px;
+    float:left;
+    width:200px;
+
+
+}
+
+#footer_right
+{
+    color:#ececec;
+    font-size:12px;
+    font-family:Arial, Helvetica, sans-serif;
+    padding-left:50px;
+    padding-top:10px;
+    float:left;
+    width:400px;
+    text-align:center;
+    margin-left:10px;
+
+}
+#footer_logo img
+{
+    width:100px;
+    height:100px;
+    float:right;
+    background-repeat:no-repeat;
+    margin-top:-34px;
+}
+
+
+#main_content
+{
+
+    background-image: url('./images/leaf.gif');
+    background-repeat:no-repeat;
+    background-position:top left;
+    overflow:hidden;
+
+
+}
+
+#main_content_top
+{
+    width:930px;
+    height:18px;
+    padding-bottom:4px;
+    border-bottom:1px solid #fff;
+    padding-top:20px;
+    margin-left:20px;
+    color:#c2d832;
+    font-family:Arial, Helvetica, sans-serif;
+    font-size:18px;
+
+}
+
+#main_content_left
+{
+    width:750px;
+    height:460px;
+    float:left;
+    padding-top:20px;
+    padding-left:20px;
+    padding-bottom:20px;
+
+
+
+}
+
+#main_content_left_in
+{
+    width:720px;
+    height:420px;
+    padding-top:10px;
+    border-right:1px solid #fff;
+}
+
+#main_content_left_introduction
+{
+    width:240px;
+    height:470px;
+    color:#fff;
+    float:left;
+    color:#fff;
+    z-index:3;
+    overflow:hidden;
+    font-size:12px;
+    font-family:Arial, Helvetica, sans-serif;
+    line-height:150%;
+}
+#main_content_left_slideshow
+{
+    width:470px;
+    height:353px;
+    float:left;
+    border:8px solid #fff;
+    margin-left:10px;
+
+}
+
+#main_content_right
+{
+    width:180px;
+    height:auto;
+    margin-top:20px;
+    margin-right:10px;
+    padding-top:4px;
+    float:right;
+    font-family:Arial, Helvetica, sans-serif;
+
+}
+
+#main_content_right_title
+{
+    color:#c2d832;
+    text-align:left;
+    font-weight:bold;
+    font-size:13px;
+    border-top:1px solid #fff;
+    padding-top:10px;
+}
+#main_content_right_content
+{
+    padding-top:10px;
+    color:#fff;
+    font-size:12px;
+    text-align:left;
+}
+#logo_content
+{
+    background-repeat:no-repeat;
+    background-position:bottom right;
+    width:960px;
+    height:60px;
+    float:left;
+    clear:both;
+    overflow:hidden;
+
+}
+/*---------- nha hang css------------------*/
+#introduce_nhahang
+{
+    width:240px;
+    height:360px;
+    color:#fff;
+    float:left;
+    overflow:hidden;
+    font-size:12px;
+    font-family:Arial, Helvetica, sans-serif;
+    padding-left:20px;
+    padding-top:10px;
+    line-height:150%;
+}
+#slideshow_nhahang
+{
+    width:650px;
+    height:316px;
+    float:right;
+    margin-top:10px;
+    border:8px solid #fff;
+    margin-right:10px;
+
+}
+
+/*---------- thuc don css------------------*/
+
+#thucdon_slideshow_1
+{
+
+    float:left;
+    width:440px;
+    height:200px;
+    overflow:hidden;
+    border:8px solid #fff;
+    margin-left:20px;
+    margin-top:10px;
+
+}
+#thucdon_slideshow_2
+{
+    float:left;
+    width:440px;
+    height:200px;
+    overflow:hidden;
+    border:8px solid #fff;
+    margin-left:20px;
+    margin-top:10px;
+
+}
+
+#intro_thucdon
+{
+    clear:both;
+    height:140px;
+    width:960px;
+    margin-top:20px;
+    padding-top:10px;
+
+    color:#fff;
+    font-family:Arial, Helvetica, sans-serif;
+    font-size:13px;
+    margin-left:20px;
+    margin-top:10px;
+    line-height:140%;
+
+
+}
+#intro_thucdon_1
+{
+    float:left;
+    height:auto;
+    width:280px;
+    padding-right:20px;
+    margin-top:10px;
+    padding-top:10px;
+    border-top:1px solid #fff;
+}
+
+#intro_thucdon_2
+{
+
+    height:auto;
+    width:280px;
+    padding-right:20px;
+    padding-top:10px;
+    border-top:1px solid #fff;
+    margin-top:10px;
+    line-height:140%;
+    float:left;
+    margin-left:20px;
+
+}
+
+#intro_thucdon_3
+{
+    height:auto;
+    width:270px;
+    padding-right:20px;
+    padding-top:10px;
+    border-top:1px solid #fff;
+    margin-top:10px;
+    line-height:140%;
+    float:left;
+    margin-left:20px;
+    font-weight:bold;
+    font-style:italic;
+
+}
+
+/*----------------- tintuc ---------------------*/
+
+#tintuc_img
+{
+    float:left;
+    border:4px solid #fff;
+    width:160px;
+    height:120px;
+}
+
+#tintuc_content
+{
+    margin-left:20px;
+    width:500px;-height:140%;
+    height:auto;
+    float:left;
+    color:#fff;
+    font-family:Arial, Helvetica, sans-serif;
+    font-size:13px;
+
+}
+
+img
+{
+    border:none;
+}
+/*
+     FILE ARCHIVED ON 04:59:09 Dec 11, 2013 AND RETRIEVED FROM THE
+     INTERNET ARCHIVE ON 06:48:18 May 02, 2024.
+     JAVASCRIPT APPENDED BY WAYBACK MACHINE, COPYRIGHT INTERNET ARCHIVE.
+
+     ALL OTHER CONTENT MAY ALSO BE PROTECTED BY COPYRIGHT (17 U.S.C.
+     SECTION 108(a)(3)).
+*/
+/*
+playback timings (ms):
+  captures_list: 0.606
+  exclusion.robots: 0.185
+  exclusion.robots.policy: 0.177
+  cdx.remote: 0.058
+  esindex: 0.009
+  LoadShardBlock: 141.04 (3)
+  PetaboxLoader3.datanode: 67.433 (4)
+  PetaboxLoader3.resolve: 92.372 (2)
+  load_resource: 82.148
+*/
