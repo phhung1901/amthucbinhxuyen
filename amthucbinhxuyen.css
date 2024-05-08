@@ -104,6 +104,10 @@ h6
    color: #000080;
    background-color: transparent;
 }
+.article-item a{
+   color: black;
+   font-size: 16px;
+}
 
 /*
      FILE ARCHIVED ON 03:24:57 Mar 18, 2018 AND RETRIEVED FROM THE

@@ -160,6 +160,27 @@ body
    text-align: center;
    text-decoration: none;
 }
+.place#wb_CssMenu1 ul ul a, #wb_CssMenu1 ul :hover ul a
+{
+   float: none;
+   margin: 0;
+   width: 150px;
+   height: auto;
+   white-space: normal;
+   padding: 8px 5px 8px 5px;
+   background-color: #F5FFFA;
+   background-image: none;
+   border: 0px #FFFFFF solid;
+   color: #2E8B57;
+   font-weight: bold;
+   font-size: 12px;
+   font-style: normal;
+   line-height: 12px;
+   text-align: center;
+   text-decoration: none;
+   z-index: 2;
+   position: relative;
+}
 #wb_CssMenu1 ul :hover ul .firstitem a
 {
    margin-top: 0px;
