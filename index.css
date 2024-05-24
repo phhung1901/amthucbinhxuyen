@@ -230,6 +230,13 @@ body
    margin: 0;
 }
 
+#SlideShow1 .image{
+   height: 100%!important;
+}
+.new-articles{
+   left: 32vw!important;
+   top: 100vh!important;
+}
 /*
      FILE ARCHIVED ON 03:07:05 Mar 18, 2018 AND RETRIEVED FROM THE
      INTERNET ARCHIVE ON 04:08:40 Apr 24, 2024.
