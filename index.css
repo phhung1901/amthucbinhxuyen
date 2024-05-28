@@ -235,12 +235,12 @@ body
 }
 .new-articles{
    left: 32vw!important;
-   top: 210vh!important;
+   top: 120vh!important;
 }
 
 .contact{
    left: 37vw!important;
-   top: 99vh!important;
+   top: 10vh!important;
 }
 .contact ul li{
    list-style: none;
@@ -253,11 +253,11 @@ body
 @media screen and (max-width: 1024px){
    .new-articles{
       left: 30vw!important;
-      top: 165vh!important;
+      top: 85vh!important;
    }
    .contact{
       left: 37vw!important;
-      top: 70vh!important;
+      top: 10vh!important;
    }
    .map_frame{
       width: 200px;
@@ -268,11 +268,11 @@ body
 @media screen and (max-width: 768px){
    .new-articles{
       left: 28vw!important;
-      top: 155vh!important;
+      top: 50vh!important;
    }
    .contact{
       left: 37vw!important;
-      top: 55vh!important;
+      top: 10vh!important;
    }
 }
 /*
